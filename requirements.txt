@@ -1,2 +1,4 @@
+matplotlib
 openpyxl>=3.1
+pandas
 pytest>=8.0
