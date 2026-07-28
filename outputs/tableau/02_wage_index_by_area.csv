@@ -1,0 +1,490 @@
+area_code,area_name,state,area_kind,wage_index,reference_payment_1AB11
+99902,ALASKA,AK,rural,1.1274,2239.63
+11260,"Anchorage, AK",AK,urban,1.1328,2247.9
+21820,"Fairbanks-College, AK",AK,urban,0.98,2013.91
+99901,ALABAMA,AL,rural,0.6367,1488.2
+50001,ALABAMA,AL,transition,0.68,1554.5
+11500,"Anniston-Oxford, AL",AL,urban,0.6958,1578.7
+12220,"Auburn-Opelika, AL",AL,urban,0.6797,1554.04
+13820,"Birmingham, AL",AL,urban,0.8596,1829.54
+19300,"Daphne-Fairhope-Foley, AL",AL,urban,0.8087,1751.59
+19460,"Decatur, AL",AL,urban,0.7153,1608.56
+20020,"Dothan, AL",AL,urban,0.7099,1600.29
+22520,"Florence-Muscle Shoals, AL",AL,urban,0.6816,1556.95
+23460,"Gadsden, AL",AL,urban,0.7243,1622.34
+26620,"Huntsville, AL",AL,urban,0.8106,1754.5
+33660,"Mobile, AL",AL,urban,0.8153,1761.7
+33860,"Montgomery, AL",AL,urban,0.8051,1746.08
+46220,"Tuscaloosa, AL",AL,urban,0.9162,1916.21
+99904,ARKANSAS,AR,rural,0.7296,1630.46
+50002,ARKANSAS,AR,transition,0.7496,1661.09
+22220,"Fayetteville-Springdale-Rogers, AR",AR,urban,0.8802,1861.08
+22900,"Fort Smith, AR-OK",AR,urban,0.9214,1924.17
+26300,"Hot Springs, AR",AR,urban,0.8608,1831.37
+27860,"Jonesboro, AR",AR,urban,0.8199,1768.74
+30780,"Little Rock-North Little Rock-Conway, AR",AR,urban,0.8807,1861.85
+99903,ARIZONA,AZ,rural,0.8539,1820.81
+22380,"Flagstaff, AZ",AZ,urban,1.074,2157.86
+29420,"Lake Havasu City-Kingman, AZ",AZ,urban,0.9044,1898.14
+38060,"Phoenix-Mesa-Chandler, AZ",AZ,urban,1.0117,2062.46
+39150,"Prescott Valley-Prescott, AZ",AZ,urban,0.9986,2042.39
+43420,"Sierra Vista-Douglas, AZ",AZ,urban,0.8294,1783.29
+46060,"Tucson, AZ",AZ,urban,0.8886,1873.95
+49740,"Yuma, AZ",AZ,urban,0.9517,1970.57
+11244,"Anaheim-Santa Ana-Irvine, CA",CA,urban,1.2445,2418.96
+12540,"Bakersfield-Delano, CA",CA,urban,1.184,2326.31
+99905,CALIFORNIA,CA,rural,1.2775,2469.49
+17020,"Chico, CA",CA,urban,1.0202,2075.47
+20940,"El Centro, CA",CA,urban,0.8612,1831.99
+23420,"Fresno, CA",CA,urban,1.1541,2280.52
+25260,"Hanford-Corcoran, CA",CA,urban,1.1706,2305.79
+31084,"Los Angeles-Long Beach-Glendale, CA",CA,urban,1.2699,2457.85
+32900,"Merced, CA",CA,urban,1.2866,2483.43
+33700,"Modesto, CA",CA,urban,1.2476,2423.7
+34900,"Napa, CA",CA,urban,1.4679,2761.06
+36084,"Oakland-Fremont-Berkeley, CA",CA,urban,1.7434,3182.95
+37100,"Oxnard-Thousand Oaks-Ventura, CA",CA,urban,1.2548,2434.73
+39820,"Redding, CA",CA,urban,1.385,2634.11
+40140,"Riverside-San Bernardino-Ontario, CA",CA,urban,1.174,2311.0
+40900,"Sacramento-Roseville-Folsom, CA",CA,urban,1.563,2906.69
+41500,"Salinas, CA",CA,urban,1.7074,3127.82
+41740,"San Diego-Chula Vista-Carlsbad, CA",CA,urban,1.2301,2396.9
+41884,"San Francisco-San Mateo-Redwood City, CA",CA,urban,1.7522,3196.43
+41940,"San Jose-Sunnyvale-Santa Clara, CA",CA,urban,1.8317,3318.17
+42020,"San Luis Obispo-Paso Robles, CA",CA,urban,1.279,2471.79
+42034,"San Rafael, CA",CA,urban,1.6942,3107.61
+42100,"Santa Cruz-Watsonville, CA",CA,urban,1.7061,3125.83
+42200,"Santa Maria-Santa Barbara, CA",CA,urban,1.3137,2524.93
+42220,"Santa Rosa-Petaluma, CA",CA,urban,1.648,3036.86
+44700,"Stockton-Lodi, CA",CA,urban,1.5112,2827.37
+46700,"Vallejo, CA",CA,urban,1.8147,3292.14
+47300,"Visalia, CA",CA,urban,0.9591,1981.91
+49700,"Yuba City, CA",CA,urban,1.3595,2595.06
+14500,"Boulder, CO",CO,urban,1.1215,2230.6
+99906,COLORADO,CO,rural,1.0501,2121.26
+17820,"Colorado Springs, CO",CO,urban,0.9568,1978.38
+19740,"Denver-Aurora-Centennial, CO",CO,urban,1.0079,2056.64
+22660,"Fort Collins-Loveland, CO",CO,urban,0.9523,1971.49
+24300,"Grand Junction, CO",CO,urban,1.063,2141.01
+24540,"Greeley, CO",CO,urban,0.9859,2022.95
+39380,"Pueblo, CO",CO,urban,0.958,1980.22
+14860,"Bridgeport-Stamford-Danbury, CT",CT,urban,1.1504,2274.85
+99907,CONNECTICUT,CT,rural,0.914,1912.84
+50003,CONNECTICUT,CT,transition,0.9687,1996.61
+25540,"Hartford-West Hartford-East Hartford, CT",CT,urban,1.0547,2128.3
+35300,"New Haven, CT",CT,urban,1.1148,2220.34
+35980,"Norwich-New London-Willimantic, CT",CT,urban,1.0563,2130.75
+47930,"Waterbury-Shelton, CT",CT,urban,1.0234,2080.37
+47764,"Washington, DC-MD",DC,urban,1.0737,2157.4
+99908,DELAWARE,DE,rural,1.0095,2059.09
+20100,"Dover, DE",DE,urban,1.1673,2300.73
+48864,"Wilmington, DE-MD-NJ",DE,urban,1.0868,2177.46
+15980,"Cape Coral-Fort Myers, FL",FL,urban,0.9189,1920.35
+18880,"Crestview-Fort Walton Beach-Destin, FL",FL,urban,0.8723,1848.98
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",FL,urban,0.8772,1856.49
+99910,FLORIDA,FL,rural,0.8363,1793.85
+22744,"Fort Lauderdale-Pompano Beach-Sunrise, FL",FL,urban,0.9693,1997.53
+23540,"Gainesville, FL",FL,urban,0.8991,1890.02
+26140,"Homosassa Springs, FL",FL,urban,0.8569,1825.4
+27260,"Jacksonville, FL",FL,urban,0.8753,1853.58
+29460,"Lakeland-Winter Haven, FL",FL,urban,0.8715,1847.76
+33124,"Miami-Miami Beach-Kendall, FL",FL,urban,0.9669,1993.85
+34940,"Naples-Marco Island, FL",FL,urban,0.9223,1925.55
+35840,"North Port-Bradenton-Sarasota, FL",FL,urban,0.9439,1958.63
+36100,"Ocala, FL",FL,urban,0.8715,1847.76
+36740,"Orlando-Kissimmee-Sanford, FL",FL,urban,0.9674,1994.62
+37340,"Palm Bay-Melbourne-Titusville, FL",FL,urban,0.9484,1965.52
+37460,"Panama City-Panama City Beach, FL",FL,urban,0.8568,1825.25
+37860,"Pensacola-Ferry Pass-Brent, FL",FL,urban,0.8065,1748.22
+38940,"Port St. Lucie, FL",FL,urban,0.9145,1913.61
+39460,"Punta Gorda, FL",FL,urban,0.8793,1859.7
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",FL,urban,1.0152,2067.82
+42700,"Sebring, FL",FL,urban,0.9382,1949.9
+41304,"St. Petersburg-Clearwater-Largo, FL",FL,urban,0.8805,1861.54
+45220,"Tallahassee, FL",FL,urban,0.7398,1646.08
+45294,"Tampa, FL",FL,urban,0.8981,1888.49
+48424,"West Palm Beach-Boca Raton-Delray Beach, FL",FL,urban,0.9189,1920.35
+48680,"Wildwood-The Villages, FL",FL,urban,0.9601,1983.44
+10500,"Albany, GA",GA,urban,0.9504,1968.58
+12020,"Athens-Clarke County, GA",GA,urban,0.8652,1838.11
+12054,"Atlanta-Sandy Springs-Roswell, GA",GA,urban,0.9986,2042.39
+12260,"Augusta-Richmond County, GA-SC",GA,urban,0.7916,1725.4
+15260,"Brunswick-St. Simons, GA",GA,urban,0.9534,1973.18
+17980,"Columbus, GA-AL",GA,urban,0.7796,1707.03
+19140,"Dalton, GA",GA,urban,0.8885,1873.79
+99911,GEORGIA,GA,rural,0.7364,1640.87
+50004,GEORGIA,GA,transition,0.9083,1904.11
+23580,"Gainesville, GA",GA,urban,0.9368,1947.76
+25980,"Hinesville, GA",GA,urban,0.8779,1857.56
+31420,"Macon-Bibb County, GA",GA,urban,0.8256,1777.47
+31924,"Marietta, GA",GA,urban,1.0154,2068.12
+40660,"Rome, GA",GA,urban,1.0373,2101.66
+42340,"Savannah, GA",GA,urban,0.822,1771.96
+46660,"Valdosta, GA",GA,urban,0.7031,1589.88
+47580,"Warner Robins, GA",GA,urban,0.7476,1658.02
+99965,GUAM,GU,rural,0.9611,1984.97
+99912,HAWAII,HI,rural,1.1312,2245.45
+27980,"Kahului-Wailuku, HI",HI,urban,1.0277,2086.96
+50005,"Kahului-Wailuku, HI",HI,transition,1.0555,2129.53
+46520,"Urban Honolulu, HI",HI,urban,1.1821,2323.4
+11180,"Ames, IA",IA,urban,0.8665,1840.1
+16300,"Cedar Rapids, IA",IA,urban,0.8695,1844.7
+19340,"Davenport-Moline-Rock Island, IA-IL",IA,urban,0.7828,1711.93
+19780,"Des Moines-West Des Moines, IA",IA,urban,0.9156,1915.29
+20220,"Dubuque, IA",IA,urban,0.8532,1819.73
+99916,IOWA,IA,rural,0.7814,1709.78
+26980,"Iowa City, IA",IA,urban,0.8757,1854.19
+43580,"Sioux City, IA-NE-SD",IA,urban,0.8657,1838.88
+47940,"Waterloo-Cedar Falls, IA",IA,urban,0.808,1750.52
+14260,"Boise City, ID",ID,urban,0.9689,1996.91
+17660,"Coeur d'Alene, ID",ID,urban,0.9905,2029.99
+99913,IDAHO,ID,rural,0.6858,1563.39
+50006,IDAHO,ID,transition,0.8518,1817.59
+26820,"Idaho Falls, ID",ID,urban,0.8009,1739.64
+30300,"Lewiston, ID-WA",ID,urban,0.8985,1889.11
+38540,"Pocatello, ID",ID,urban,0.8799,1860.62
+46300,"Twin Falls, ID",ID,urban,0.9347,1944.54
+14010,"Bloomington, IL",IL,urban,0.8945,1882.98
+16580,"Champaign-Urbana, IL",IL,urban,0.8719,1848.37
+16984,"Chicago-Naperville-Schaumburg, IL",IL,urban,1.0228,2079.45
+19500,"Decatur, IL",IL,urban,0.8414,1801.66
+20994,"Elgin, IL",IL,urban,0.9833,2018.96
+99914,ILLINOIS,IL,rural,0.8743,1852.05
+28100,"Kankakee, IL",IL,urban,0.8798,1860.47
+29404,"Lake County, IL",IL,urban,0.9978,2041.17
+37900,"Peoria, IL",IL,urban,0.89,1876.09
+40420,"Rockford, IL",IL,urban,0.9202,1922.34
+44100,"Springfield, IL",IL,urban,0.9599,1983.13
+14020,"Bloomington, IN",IN,urban,0.9943,2035.81
+18020,"Columbus, IN",IN,urban,1.1271,2239.17
+21140,"Elkhart-Goshen, IN",IN,urban,1.0026,2048.52
+21780,"Evansville, IN",IN,urban,0.9727,2002.73
+23060,"Fort Wayne, IN",IN,urban,1.0326,2094.46
+99915,INDIANA,IN,rural,0.8565,1824.79
+50008,INDIANA,IN,transition,0.8649,1837.65
+26900,"Indianapolis-Carmel-Greenwood, IN",IN,urban,1.0022,2047.91
+29020,"Kokomo, IN",IN,urban,0.9774,2009.93
+29200,"Lafayette-West Lafayette, IN",IN,urban,1.009,2058.32
+29414,"Lake County-Porter County-Jasper County, IN",IN,urban,0.8933,1881.14
+33140,"Michigan City-La Porte, IN",IN,urban,0.9278,1933.97
+34620,"Muncie, IN",IN,urban,0.982,2016.97
+43780,"South Bend-Mishawaka, IN-MI",IN,urban,0.967,1994.0
+45460,"Terre Haute, IN",IN,urban,0.9159,1915.75
+99917,KANSAS,KS,rural,0.8135,1758.94
+29940,"Lawrence, KS",KS,urban,0.8785,1858.48
+31740,"Manhattan, KS",KS,urban,0.8194,1767.97
+45820,"Topeka, KS",KS,urban,0.8196,1768.28
+48620,"Wichita, KS",KS,urban,0.8348,1791.56
+14540,"Bowling Green, KY",KY,urban,0.8657,1838.88
+21060,"Elizabethtown, KY",KY,urban,0.8551,1822.64
+99918,KENTUCKY,KY,rural,0.8165,1763.53
+50009,KENTUCKY,KY,transition,0.827,1779.61
+30460,"Lexington-Fayette, KY",KY,urban,0.9449,1960.16
+31140,"Louisville/Jefferson County, KY-IN",KY,urban,0.9145,1913.61
+36980,"Owensboro, KY",KY,urban,0.9018,1894.16
+37140,"Paducah, KY-IL",KY,urban,0.8638,1835.97
+10780,"Alexandria, LA",LA,urban,0.8816,1863.23
+12940,"Baton Rouge, LA",LA,urban,0.8046,1745.31
+25220,"Hammond, LA",LA,urban,0.7346,1638.12
+26380,"Houma-Bayou Cane-Thibodaux, LA",LA,urban,0.696,1579.01
+99919,LOUISIANA,LA,rural,0.6946,1576.86
+29180,"Lafayette, LA",LA,urban,0.8153,1761.7
+29340,"Lake Charles, LA",LA,urban,0.8177,1765.37
+33740,"Monroe, LA",LA,urban,0.7955,1731.38
+35380,"New Orleans-Metairie, LA",LA,urban,0.8545,1821.73
+43340,"Shreveport-Bossier City, LA",LA,urban,0.8149,1761.08
+43640,"Slidell-Mandeville-Covington, LA",LA,urban,0.821,1770.43
+11200,"Amherst Town-Northampton, MA",MA,urban,0.9814,2016.06
+12700,"Barnstable Town, MA",MA,urban,1.2554,2435.65
+14454,"Boston, MA",MA,urban,1.1519,2277.15
+15764,"Cambridge-Newton-Framingham, MA",MA,urban,1.0673,2147.6
+99922,MASSACHUSETTS,MA,rural,1.1372,2254.64
+50013,MASSACHUSETTS,MA,transition,1.1102,2213.29
+38340,"Pittsfield, MA",MA,urban,0.9948,2036.58
+44140,"Springfield, MA",MA,urban,0.9905,2029.99
+49340,"Worcester, MA",MA,urban,1.0415,2108.09
+12580,"Baltimore-Columbia-Towson, MD",MD,urban,0.9508,1969.2
+23224,"Frederick-Gaithersburg-Bethesda, MD",MD,urban,0.9736,2004.11
+25180,"Hagerstown-Martinsburg, MD-WV",MD,urban,0.9109,1908.09
+30500,"Lexington Park, MD",MD,urban,0.927,1932.75
+99921,MARYLAND,MD,rural,0.8788,1858.94
+41540,"Salisbury, MD",MD,urban,0.8319,1787.12
+12620,"Bangor, ME",ME,urban,0.9102,1907.02
+30340,"Lewiston-Auburn, ME",ME,urban,0.8638,1835.97
+99920,MAINE,ME,rural,0.8039,1744.24
+38860,"Portland-South Portland, ME",ME,urban,0.9983,2041.94
+11460,"Ann Arbor, MI",MI,urban,0.9869,2024.48
+12980,"Battle Creek, MI",MI,urban,0.8879,1872.87
+13020,"Bay City, MI",MI,urban,0.8667,1840.41
+19804,"Detroit-Dearborn-Livonia, MI",MI,urban,0.8805,1861.54
+22420,"Flint, MI",MI,urban,0.9858,2022.79
+24340,"Grand Rapids-Wyoming-Kentwood, MI",MI,urban,0.8291,1782.83
+27100,"Jackson, MI",MI,urban,0.8349,1791.71
+28020,"Kalamazoo-Portage, MI",MI,urban,0.8683,1842.86
+29620,"Lansing-East Lansing, MI",MI,urban,0.9002,1891.71
+99923,MICHIGAN,MI,rural,0.8232,1773.79
+33220,"Midland, MI",MI,urban,0.9233,1927.08
+33780,"Monroe, MI",MI,urban,0.9435,1958.02
+34740,"Muskegon-Norton Shores, MI",MI,urban,0.8632,1835.05
+35660,"Niles, MI",MI,urban,0.8907,1877.16
+40980,"Saginaw, MI",MI,urban,0.8579,1826.93
+45900,"Traverse City, MI",MI,urban,0.8413,1801.51
+47664,"Warren-Troy-Farmington Hills, MI",MI,urban,0.8862,1870.27
+20260,"Duluth, MN-WI",MN,urban,0.9382,1949.9
+99924,MINNESOTA,MN,rural,0.9037,1897.07
+31860,"Mankato, MN",MN,urban,1.1112,2214.83
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,urban,1.0849,2174.55
+40340,"Rochester, MN",MN,urban,1.1304,2244.23
+41060,"St. Cloud, MN",MN,urban,0.9221,1925.25
+16020,"Cape Girardeau, MO-IL",MO,urban,0.7794,1706.72
+17860,"Columbia, MO",MO,urban,0.8548,1822.19
+27620,"Jefferson City, MO",MO,urban,0.8018,1741.02
+27900,"Joplin, MO-KS",MO,urban,0.7358,1639.95
+28140,"Kansas City, MO-KS",MO,urban,0.9054,1899.67
+99926,MISSOURI,MO,rural,0.8016,1740.72
+44180,"Springfield, MO",MO,urban,0.7952,1730.92
+41140,"St. Joseph, MO-KS",MO,urban,0.8247,1776.09
+41180,"St. Louis, MO-IL",MO,urban,0.9734,2003.8
+25060,"Gulfport-Biloxi, MS",MS,urban,0.7667,1687.27
+25620,"Hattiesburg, MS",MS,urban,0.6992,1583.91
+27140,"Jackson, MS",MS,urban,0.8493,1813.76
+99925,MISSISSIPPI,MS,rural,0.7124,1604.12
+13740,"Billings, MT",MT,urban,0.8974,1887.42
+14580,"Bozeman, MT",MT,urban,0.9655,1991.71
+24500,"Great Falls, MT",MT,urban,0.8698,1845.16
+25740,"Helena, MT",MT,urban,0.7705,1693.09
+99927,MONTANA,MT,rural,1.1433,2263.98
+33540,"Missoula, MT",MT,urban,0.9325,1941.17
+11700,"Asheville, NC",NC,urban,0.8847,1867.97
+15500,"Burlington, NC",NC,urban,0.8719,1848.37
+16740,"Charlotte-Concord-Gastonia, NC-SC",NC,urban,0.9404,1953.27
+20500,"Durham-Chapel Hill, NC",NC,urban,0.9758,2007.48
+22180,"Fayetteville, NC",NC,urban,0.9465,1962.61
+24140,"Goldsboro, NC",NC,urban,0.912,1909.78
+24660,"Greensboro-High Point, NC",NC,urban,0.9168,1917.13
+24780,"Greenville, NC",NC,urban,0.8242,1775.33
+25860,"Hickory-Lenoir-Morganton, NC",NC,urban,0.8531,1819.58
+27340,"Jacksonville, NC",NC,urban,0.7424,1650.06
+99934,NORTH CAROLINA,NC,rural,0.8122,1756.95
+50020,NORTH CAROLINA,NC,transition,0.8614,1832.29
+38240,"Pinehurst-Southern Pines, NC",NC,urban,0.8222,1772.26
+39580,"Raleigh-Cary, NC",NC,urban,0.9855,2022.33
+40580,"Rocky Mount, NC",NC,urban,0.8712,1847.3
+48900,"Wilmington, NC",NC,urban,0.9865,2023.87
+49180,"Winston-Salem, NC",NC,urban,0.9296,1936.73
+13900,"Bismarck, ND",ND,urban,0.8919,1879.0
+22020,"Fargo, ND-MN",ND,urban,0.8911,1877.77
+24220,"Grand Forks, ND-MN",ND,urban,0.744,1652.51
+33500,"Minot, ND",ND,urban,0.8047,1745.46
+99935,NORTH DAKOTA,ND,rural,0.8329,1788.65
+24260,"Grand Island, NE",NE,urban,0.9769,2009.16
+30700,"Lincoln, NE",NE,urban,1.0231,2079.91
+99928,NEBRASKA,NE,rural,0.8864,1870.58
+36540,"Omaha, NE-IA",NE,urban,1.0402,2106.1
+31700,"Manchester-Nashua, NH",NH,urban,0.9831,2018.66
+99930,NEW HAMPSHIRE,NH,rural,1.0138,2065.67
+40484,"Rockingham County-Strafford County, NH",NH,urban,1.0021,2047.75
+12100,"Atlantic City-Hammonton, NJ",NJ,urban,0.9869,2024.48
+15804,"Camden, NJ",NJ,urban,1.0925,2186.19
+29484,"Lakewood-New Brunswick, NJ",NJ,urban,1.1274,2239.63
+35084,"Newark, NJ",NJ,urban,1.1,2197.67
+45940,"Trenton-Princeton, NJ",NJ,urban,1.0307,2091.55
+47220,"Vineland, NJ",NJ,urban,1.081,2168.58
+10740,"Albuquerque, NM",NM,urban,0.9306,1938.26
+22140,"Farmington, NM",NM,urban,0.8816,1863.23
+29740,"Las Cruces, NM",NM,urban,0.8548,1822.19
+99932,NEW MEXICO,NM,rural,0.9194,1921.11
+42140,"Santa Fe, NM",NM,urban,1.0201,2075.32
+16180,"Carson City, NV",NV,urban,0.9567,1978.23
+29820,"Las Vegas-Henderson-North Las Vegas, NV",NV,urban,1.0884,2179.91
+99929,NEVADA,NV,rural,1.1108,2214.21
+39900,"Reno, NV",NV,urban,0.9373,1948.52
+50017,"Reno, NV",NV,transition,0.9666,1993.39
+10580,"Albany-Schenectady-Troy, NY",NY,urban,0.8551,1822.64
+13780,"Binghamton, NY",NY,urban,0.8313,1786.2
+15380,"Buffalo-Cheektowaga, NY",NY,urban,1.0646,2143.46
+21300,"Elmira, NY",NY,urban,0.8462,1809.02
+24020,"Glens Falls, NY",NY,urban,0.9299,1937.19
+27060,"Ithaca, NY",NY,urban,0.9457,1961.39
+28740,"Kingston, NY",NY,urban,1.0532,2126.01
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",NY,urban,1.172,2307.93
+99933,NEW YORK,NY,rural,0.8892,1874.86
+35004,"Nassau County-Suffolk County, NY",NY,urban,1.2365,2406.7
+35614,"New York-Jersey City-White Plains, NY-NJ",NY,urban,1.2951,2496.44
+40380,"Rochester, NY",NY,urban,0.9499,1967.82
+45060,"Syracuse, NY",NY,urban,1.0186,2073.02
+46540,"Utica-Rome, NY",NY,urban,0.9113,1908.71
+48060,"Watertown-Fort Drum, NY",NY,urban,0.852,1817.9
+10420,"Akron, OH",OH,urban,0.8254,1777.16
+15940,"Canton-Massillon, OH",OH,urban,0.8021,1741.48
+17140,"Cincinnati, OH-KY-IN",OH,urban,0.9523,1971.49
+17410,"Cleveland, OH",OH,urban,0.8776,1857.1
+18140,"Columbus, OH",OH,urban,0.9358,1946.23
+19430,"Dayton-Kettering-Beavercreek, OH",OH,urban,0.9646,1990.33
+30620,"Lima, OH",OH,urban,0.8954,1884.36
+31900,"Mansfield, OH",OH,urban,0.9632,1988.18
+99936,OHIO,OH,rural,0.8032,1743.17
+41780,"Sandusky, OH",OH,urban,0.794,1729.08
+44220,"Springfield, OH",OH,urban,0.9114,1908.86
+45780,"Toledo, OH",OH,urban,0.8907,1877.16
+49660,"Youngstown-Warren, OH",OH,urban,0.8631,1834.9
+21420,"Enid, OK",OK,urban,0.8425,1803.35
+30020,"Lawton, OK",OK,urban,0.7601,1677.17
+99937,OKLAHOMA,OK,rural,0.8035,1743.63
+36420,"Oklahoma City, OK",OK,urban,0.8721,1848.68
+46140,"Tulsa, OK",OK,urban,0.8448,1806.87
+10540,"Albany, OR",OR,urban,1.0449,2113.3
+13460,"Bend, OR",OR,urban,1.1925,2339.33
+18700,"Corvallis, OR",OR,urban,1.0963,2192.01
+21660,"Eugene-Springfield, OR",OR,urban,1.1999,2350.66
+24420,"Grants Pass, OR",OR,urban,1.2904,2489.25
+32780,"Medford, OR",OR,urban,1.2446,2419.11
+99938,OREGON,OR,rural,1.0209,2076.54
+38900,"Portland-Vancouver-Hillsboro, OR-WA",OR,urban,1.1783,2317.58
+41420,"Salem, OR",OR,urban,1.1119,2215.9
+10900,"Allentown-Bethlehem-Easton, PA-NJ",PA,urban,0.9978,2041.17
+11020,"Altoona, PA",PA,urban,0.8641,1836.43
+16540,"Chambersburg, PA",PA,urban,1.0154,2068.12
+21500,"Erie, PA",PA,urban,0.845,1807.18
+23900,"Gettysburg, PA",PA,urban,1.0071,2055.41
+25420,"Harrisburg-Carlisle, PA",PA,urban,1.0055,2052.96
+27780,"Johnstown, PA",PA,urban,0.7921,1726.17
+29540,"Lancaster, PA",PA,urban,0.8644,1836.89
+30140,"Lebanon, PA",PA,urban,1.0038,2050.36
+33874,"Montgomery County-Bucks County-Chester County, PA",PA,urban,0.9618,1986.04
+99939,PENNSYLVANIA,PA,rural,0.8507,1815.91
+50023,PENNSYLVANIA,PA,transition,1.0188,2073.33
+37964,"Philadelphia, PA",PA,urban,1.0364,2100.28
+38300,"Pittsburgh, PA",PA,urban,0.8463,1809.17
+39740,"Reading, PA",PA,urban,1.0205,2075.93
+42540,"Scranton--Wilkes-Barre, PA",PA,urban,0.8797,1860.32
+44300,"State College, PA",PA,urban,1.1283,2241.01
+48700,"Williamsport, PA",PA,urban,0.8077,1750.06
+49620,"York-Hanover, PA",PA,urban,0.9375,1948.83
+10380,"Aguadilla, PR",PR,urban,0.2909,958.65
+11640,"Arecibo, PR",PR,urban,0.3134,993.11
+25020,"Guayama, PR",PR,urban,0.3819,1098.01
+32420,"Mayagüez, PR",PR,urban,0.3408,1035.07
+50029,"Mayagüez, PR",PR,transition,0.3731,1084.53
+99940,PUERTO RICO,PR,rural,0.3653,1072.58
+50028,PUERTO RICO,PR,transition,0.3195,1002.45
+50030,PUERTO RICO,PR,transition,0.2816,944.41
+50032,PUERTO RICO,PR,transition,0.2719,929.56
+50033,PUERTO RICO,PR,transition,0.2986,970.44
+38660,"Ponce, PR",PR,urban,0.3287,1016.54
+41980,"San Juan-Bayamón-Caguas, PR",PR,urban,0.3589,1062.78
+39300,"Providence-Warwick, RI-MA",RI,urban,1.004,2050.66
+16700,"Charleston-North Charleston, SC",SC,urban,0.8747,1852.66
+17900,"Columbia, SC",SC,urban,0.9208,1923.25
+22500,"Florence, SC",SC,urban,0.8311,1785.89
+24860,"Greenville-Anderson-Greer, SC",SC,urban,0.9137,1912.38
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",SC,urban,0.7642,1683.44
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",SC,urban,0.8008,1739.49
+99942,SOUTH CAROLINA,SC,rural,0.8184,1766.44
+43900,"Spartanburg, SC",SC,urban,0.8368,1794.62
+44940,"Sumter, SC",SC,urban,0.8921,1879.3
+39660,"Rapid City, SD",SD,urban,0.8843,1867.36
+99943,SOUTH DAKOTA,SD,rural,0.8177,1765.37
+43620,"Sioux Falls, SD-MN",SD,urban,0.7942,1729.38
+50016,"Sioux Falls, SD-MN",SD,transition,0.8174,1764.91
+16860,"Chattanooga, TN-GA",TN,urban,0.8531,1819.58
+17300,"Clarksville, TN-KY",TN,urban,0.8317,1786.81
+17420,"Cleveland, TN",TN,urban,0.8119,1756.49
+27180,"Jackson, TN",TN,urban,0.7033,1590.18
+27740,"Johnson City, TN",TN,urban,0.808,1750.52
+28700,"Kingsport-Bristol, TN-VA",TN,urban,0.8108,1754.81
+28940,"Knoxville, TN",TN,urban,0.7364,1640.87
+32820,"Memphis, TN-MS-AR",TN,urban,0.8676,1841.79
+34100,"Morristown, TN",TN,urban,0.6922,1573.19
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,urban,0.908,1903.65
+99944,TENNESSEE,TN,rural,0.7239,1621.73
+10180,"Abilene, TX",TX,urban,0.9287,1935.35
+11100,"Amarillo, TX",TX,urban,0.8434,1804.73
+12420,"Austin-Round Rock-San Marcos, TX",TX,urban,0.966,1992.47
+13140,"Beaumont-Port Arthur, TX",TX,urban,0.8793,1859.7
+15180,"Brownsville-Harlingen, TX",TX,urban,0.7845,1714.53
+17780,"College Station-Bryan, TX",TX,urban,0.8726,1849.44
+18580,"Corpus Christi, TX",TX,urban,0.9287,1935.35
+19124,"Dallas-Plano-Irving, TX",TX,urban,0.9639,1989.26
+20580,"Eagle Pass, TX",TX,urban,0.8078,1750.21
+21340,"El Paso, TX",TX,urban,0.831,1785.74
+23104,"Fort Worth-Arlington-Grapevine, TX",TX,urban,0.9691,1997.22
+26420,"Houston-Pasadena-The Woodlands, TX",TX,urban,0.9729,2003.04
+28660,"Killeen-Temple, TX",TX,urban,0.9463,1962.3
+29700,"Laredo, TX",TX,urban,0.8111,1755.26
+30980,"Longview, TX",TX,urban,0.9072,1902.43
+31180,"Lubbock, TX",TX,urban,0.8593,1829.08
+32580,"McAllen-Edinburg-Mission, TX",TX,urban,0.7661,1686.35
+33260,"Midland, TX",TX,urban,0.9018,1894.16
+36220,"Odessa, TX",TX,urban,0.8702,1845.77
+41660,"San Angelo, TX",TX,urban,0.8774,1856.79
+41700,"San Antonio-New Braunfels, TX",TX,urban,0.8526,1818.82
+43300,"Sherman-Denison, TX",TX,urban,0.8258,1777.78
+99945,TEXAS,TX,rural,0.84,1799.52
+45500,"Texarkana, TX-AR",TX,urban,0.9474,1963.99
+46340,"Tyler, TX",TX,urban,0.9099,1906.56
+47020,"Victoria, TX",TX,urban,0.8505,1815.6
+47380,"Waco, TX",TX,urban,0.9448,1960.01
+48660,"Wichita Falls, TX",TX,urban,0.908,1903.65
+30860,"Logan, UT-ID",UT,urban,0.947,1963.38
+36260,"Ogden, UT",UT,urban,0.927,1932.75
+39340,"Provo-Orem-Lehi, UT",UT,urban,0.9617,1985.89
+41620,"Salt Lake City-Murray, UT",UT,urban,0.9598,1982.98
+41100,"St. George, UT",UT,urban,0.9998,2044.23
+99946,UTAH,UT,rural,0.8969,1886.66
+11694,"Arlington-Alexandria-Reston, VA-WV",VA,urban,1.0449,2113.3
+13980,"Blacksburg-Christiansburg-Radford, VA",VA,urban,0.8488,1813.0
+16820,"Charlottesville, VA",VA,urban,0.961,1984.82
+25500,"Harrisonburg, VA",VA,urban,0.9814,2016.06
+31340,"Lynchburg, VA",VA,urban,0.8969,1886.66
+40060,"Richmond, VA",VA,urban,0.8995,1890.64
+40220,"Roanoke, VA",VA,urban,0.8569,1825.4
+44420,"Staunton-Stuarts Draft, VA",VA,urban,0.8633,1835.2
+99949,VIRGINIA,VA,rural,0.8339,1790.18
+50024,VIRGINIA,VA,transition,0.9244,1928.77
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",VA,urban,0.8942,1882.52
+49020,"Winchester, VA-WV",VA,urban,0.9496,1967.36
+99948,VIRGIN ISLANDS,VI,rural,0.5293,1323.73
+15540,"Burlington-South Burlington, VT",VT,urban,0.9839,2019.88
+99947,VERMONT,VT,rural,0.8848,1868.13
+13380,"Bellingham, WA",WA,urban,1.2111,2367.81
+14740,"Bremerton-Silverdale-Port Orchard, WA",WA,urban,1.2385,2409.77
+21794,"Everett, WA",WA,urban,1.1663,2299.2
+28420,"Kennewick-Richland, WA",WA,urban,0.9518,1970.73
+31020,"Longview-Kelso, WA",WA,urban,1.1397,2258.47
+34580,"Mount Vernon-Anacortes, WA",WA,urban,0.9453,1960.77
+36500,"Olympia-Lacey-Tumwater, WA",WA,urban,1.1329,2248.06
+42644,"Seattle-Bellevue-Kent, WA",WA,urban,1.2566,2437.49
+44060,"Spokane-Spokane Valley, WA",WA,urban,1.1032,2202.57
+45104,"Tacoma-Lakewood, WA",WA,urban,1.2721,2461.22
+99950,WASHINGTON,WA,rural,0.9712,2000.44
+47460,"Walla Walla, WA",WA,urban,0.9758,2007.48
+48300,"Wenatchee-East Wenatchee, WA",WA,urban,1.0076,2056.18
+49420,"Yakima, WA",WA,urban,0.9201,1922.18
+11540,"Appleton, WI",WI,urban,0.9498,1967.66
+20740,"Eau Claire, WI",WI,urban,0.9891,2027.85
+22540,"Fond du Lac, WI",WI,urban,0.8767,1855.72
+24580,"Green Bay, WI",WI,urban,0.893,1880.68
+27500,"Janesville-Beloit, WI",WI,urban,0.8802,1861.08
+28450,"Kenosha, WI",WI,urban,0.8905,1876.85
+29100,"La Crosse-Onalaska, WI-MN",WI,urban,0.9746,2005.64
+31540,"Madison, WI",WI,urban,0.9437,1958.32
+33340,"Milwaukee-Waukesha, WI",WI,urban,0.9679,1995.38
+36780,"Oshkosh-Neenah, WI",WI,urban,0.9411,1954.34
+39540,"Racine-Mount Pleasant, WI",WI,urban,0.9708,1999.82
+43100,"Sheboygan, WI",WI,urban,0.9382,1949.9
+99952,WISCONSIN,WI,rural,0.8513,1816.83
+48140,"Wausau, WI",WI,urban,0.8798,1860.47
+13220,"Beckley, WV",WV,urban,0.8674,1841.48
+16620,"Charleston, WV",WV,urban,0.7576,1673.34
+26580,"Huntington-Ashland, WV-KY-OH",WV,urban,0.8981,1888.49
+34060,"Morgantown, WV",WV,urban,0.8094,1752.66
+37620,"Parkersburg-Vienna, WV",WV,urban,0.8027,1742.4
+99951,WEST VIRGINIA,WV,rural,0.7156,1609.02
+50026,WEST VIRGINIA,WV,transition,0.7198,1615.45
+50027,WEST VIRGINIA,WV,transition,0.7739,1698.3
+48260,"Weirton-Steubenville, WV-OH",WV,urban,0.7286,1628.93
+48540,"Wheeling, WV-OH",WV,urban,0.7479,1658.48
+16220,"Casper, WY",WY,urban,0.947,1963.38
+16940,"Cheyenne, WY",WY,urban,0.9504,1968.58
+99953,WYOMING,WY,rural,0.9845,2020.8

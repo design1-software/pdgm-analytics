@@ -1,0 +1,9 @@
+gate,codes_failing,pct_of_all_codes,why_it_matters
+No PDGM clinical group,30902,41.36,Cannot anchor an episode; needs a different primary diagnosis
+Unacceptable as principal,1603,2.15,CMS bars this code as a principal diagnosis
+Unspecified,3473,4.65,A more specific code exists and should be obtained
+Manifestation code,422,0.56,Underlying etiology must be sequenced first
+External cause of injury,7461,9.99,Never valid as a principal diagnosis
+Code-first requirement,5220,6.99,Another diagnosis must be sequenced ahead of it
+Section 111 excluded,5000,6.69,Excluded from primary selection under Section 111
+Clean as PDGM primary,40268,53.89,Passes every gate above

@@ -1,0 +1,649 @@
+state,reference_area,wage_index,group_code,clinical_group,min_payment,max_payment,spread
+AK,"Anchorage, AK",1.1328,A,MMTA - Other,1304.91,3373.31,2068.4
+AK,"Anchorage, AK",1.1328,B,Neuro,1565.53,3764.36,2198.83
+AK,"Anchorage, AK",1.1328,C,Wound,2251.71,4382.86,2131.15
+AK,"Anchorage, AK",1.1328,D,Complex,1260.31,3228.32,1968.01
+AK,"Anchorage, AK",1.1328,E,MS Rehab,1362.73,3503.06,2140.33
+AK,"Anchorage, AK",1.1328,F,Behavioral Health,1202.05,3324.91,2122.86
+AK,"Anchorage, AK",1.1328,G,MMTA - Surgical Aftercare,1285.86,3476.4,2190.54
+AK,"Anchorage, AK",1.1328,H,MMTA - Cardiac,1265.47,3373.31,2107.84
+AK,"Anchorage, AK",1.1328,I,MMTA - Endocrine,1926.55,3852.88,1926.33
+AK,"Anchorage, AK",1.1328,J,MMTA - GI/GU,1252.02,3373.31,2121.29
+AK,"Anchorage, AK",1.1328,K,MMTA - Infectious,1306.03,3490.96,2184.93
+AK,"Anchorage, AK",1.1328,L,MMTA - Respiratory,1286.76,3398.63,2111.87
+AL,"Tuscaloosa, AL",0.9162,A,MMTA - Other,1112.36,2875.56,1763.2
+AL,"Tuscaloosa, AL",0.9162,B,Neuro,1334.53,3208.9,1874.37
+AL,"Tuscaloosa, AL",0.9162,C,Wound,1919.46,3736.14,1816.68
+AL,"Tuscaloosa, AL",0.9162,D,Complex,1074.35,2751.96,1677.61
+AL,"Tuscaloosa, AL",0.9162,E,MS Rehab,1161.65,2986.16,1824.51
+AL,"Tuscaloosa, AL",0.9162,F,Behavioral Health,1024.68,2834.3,1809.62
+AL,"Tuscaloosa, AL",0.9162,G,MMTA - Surgical Aftercare,1096.12,2963.43,1867.31
+AL,"Tuscaloosa, AL",0.9162,H,MMTA - Cardiac,1078.74,2875.56,1796.82
+AL,"Tuscaloosa, AL",0.9162,I,MMTA - Endocrine,1642.28,3284.36,1642.08
+AL,"Tuscaloosa, AL",0.9162,J,MMTA - GI/GU,1067.28,2875.56,1808.28
+AL,"Tuscaloosa, AL",0.9162,K,MMTA - Infectious,1113.32,2975.85,1862.53
+AL,"Tuscaloosa, AL",0.9162,L,MMTA - Respiratory,1096.89,2897.14,1800.25
+AR,"Fort Smith, AR-OK",0.9214,A,MMTA - Other,1116.98,2887.51,1770.53
+AR,"Fort Smith, AR-OK",0.9214,B,Neuro,1340.07,3222.24,1882.17
+AR,"Fort Smith, AR-OK",0.9214,C,Wound,1927.43,3751.67,1824.24
+AR,"Fort Smith, AR-OK",0.9214,D,Complex,1078.81,2763.4,1684.59
+AR,"Fort Smith, AR-OK",0.9214,E,MS Rehab,1166.47,2998.57,1832.1
+AR,"Fort Smith, AR-OK",0.9214,F,Behavioral Health,1028.94,2846.07,1817.13
+AR,"Fort Smith, AR-OK",0.9214,G,MMTA - Surgical Aftercare,1100.68,2975.75,1875.07
+AR,"Fort Smith, AR-OK",0.9214,H,MMTA - Cardiac,1083.22,2887.51,1804.29
+AR,"Fort Smith, AR-OK",0.9214,I,MMTA - Endocrine,1649.1,3298.01,1648.91
+AR,"Fort Smith, AR-OK",0.9214,J,MMTA - GI/GU,1071.71,2887.51,1815.8
+AR,"Fort Smith, AR-OK",0.9214,K,MMTA - Infectious,1117.94,2988.21,1870.27
+AR,"Fort Smith, AR-OK",0.9214,L,MMTA - Respiratory,1101.45,2909.18,1807.73
+AZ,"Flagstaff, AZ",1.074,A,MMTA - Other,1252.64,3238.19,1985.55
+AZ,"Flagstaff, AZ",1.074,B,Neuro,1502.82,3613.57,2110.75
+AZ,"Flagstaff, AZ",1.074,C,Wound,2161.52,4207.3,2045.78
+AZ,"Flagstaff, AZ",1.074,D,Complex,1209.83,3099.0,1889.17
+AZ,"Flagstaff, AZ",1.074,E,MS Rehab,1308.14,3362.74,2054.6
+AZ,"Flagstaff, AZ",1.074,F,Behavioral Health,1153.9,3191.72,2037.82
+AZ,"Flagstaff, AZ",1.074,G,MMTA - Surgical Aftercare,1234.35,3337.14,2102.79
+AZ,"Flagstaff, AZ",1.074,H,MMTA - Cardiac,1214.78,3238.19,2023.41
+AZ,"Flagstaff, AZ",1.074,I,MMTA - Endocrine,1849.38,3698.54,1849.16
+AZ,"Flagstaff, AZ",1.074,J,MMTA - GI/GU,1201.87,3238.19,2036.32
+AZ,"Flagstaff, AZ",1.074,K,MMTA - Infectious,1253.71,3351.12,2097.41
+AZ,"Flagstaff, AZ",1.074,L,MMTA - Respiratory,1235.21,3262.5,2027.29
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,A,MMTA - Other,1926.2,4979.41,3053.21
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,B,Neuro,2310.91,5556.64,3245.73
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,C,Wound,3323.79,6469.62,3145.83
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,D,Complex,1860.37,4765.38,2905.01
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,E,MS Rehab,2011.54,5170.93,3159.39
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,F,Behavioral Health,1774.37,4907.95,3133.58
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,G,MMTA - Surgical Aftercare,1898.08,5131.57,3233.49
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,H,MMTA - Cardiac,1867.98,4979.41,3111.43
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,I,MMTA - Endocrine,2843.81,5687.3,2843.49
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,J,MMTA - GI/GU,1848.13,4979.41,3131.28
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,K,MMTA - Infectious,1927.85,5153.07,3225.22
+CA,"San Jose-Sunnyvale-Santa Clara, CA",1.8317,L,MMTA - Respiratory,1899.41,5016.78,3117.37
+CO,"Boulder, CO",1.1215,A,MMTA - Other,1294.86,3347.34,2052.48
+CO,"Boulder, CO",1.1215,B,Neuro,1553.48,3735.38,2181.9
+CO,"Boulder, CO",1.1215,C,Wound,2234.38,4349.12,2114.74
+CO,"Boulder, CO",1.1215,D,Complex,1250.61,3203.47,1952.86
+CO,"Boulder, CO",1.1215,E,MS Rehab,1352.24,3476.1,2123.86
+CO,"Boulder, CO",1.1215,F,Behavioral Health,1192.8,3299.31,2106.51
+CO,"Boulder, CO",1.1215,G,MMTA - Surgical Aftercare,1275.96,3449.63,2173.67
+CO,"Boulder, CO",1.1215,H,MMTA - Cardiac,1255.73,3347.34,2091.61
+CO,"Boulder, CO",1.1215,I,MMTA - Endocrine,1911.72,3823.22,1911.5
+CO,"Boulder, CO",1.1215,J,MMTA - GI/GU,1242.38,3347.34,2104.96
+CO,"Boulder, CO",1.1215,K,MMTA - Infectious,1295.98,3464.09,2168.11
+CO,"Boulder, CO",1.1215,L,MMTA - Respiratory,1276.85,3372.47,2095.62
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,A,MMTA - Other,1320.55,3413.76,2093.21
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,B,Neuro,1584.3,3809.49,2225.19
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,C,Wound,2278.71,4435.41,2156.7
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,D,Complex,1275.42,3267.03,1991.61
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,E,MS Rehab,1379.06,3545.06,2166.0
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,F,Behavioral Health,1216.46,3364.77,2148.31
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,G,MMTA - Surgical Aftercare,1301.28,3518.08,2216.8
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,H,MMTA - Cardiac,1280.64,3413.76,2133.12
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,I,MMTA - Endocrine,1949.65,3899.07,1949.42
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,J,MMTA - GI/GU,1267.03,3413.76,2146.73
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,K,MMTA - Infectious,1321.69,3532.82,2211.13
+CT,"Bridgeport-Stamford-Danbury, CT",1.1504,L,MMTA - Respiratory,1302.18,3439.38,2137.2
+DC,"Washington, DC-MD",1.0737,A,MMTA - Other,1252.37,3237.5,1985.13
+DC,"Washington, DC-MD",1.0737,B,Neuro,1502.5,3612.8,2110.3
+DC,"Washington, DC-MD",1.0737,C,Wound,2161.06,4206.4,2045.34
+DC,"Washington, DC-MD",1.0737,D,Complex,1209.57,3098.35,1888.78
+DC,"Washington, DC-MD",1.0737,E,MS Rehab,1307.86,3362.02,2054.16
+DC,"Washington, DC-MD",1.0737,F,Behavioral Health,1153.65,3191.04,2037.39
+DC,"Washington, DC-MD",1.0737,G,MMTA - Surgical Aftercare,1234.09,3336.43,2102.34
+DC,"Washington, DC-MD",1.0737,H,MMTA - Cardiac,1214.52,3237.5,2022.98
+DC,"Washington, DC-MD",1.0737,I,MMTA - Endocrine,1848.98,3697.75,1848.77
+DC,"Washington, DC-MD",1.0737,J,MMTA - GI/GU,1201.61,3237.5,2035.89
+DC,"Washington, DC-MD",1.0737,K,MMTA - Infectious,1253.45,3350.41,2096.96
+DC,"Washington, DC-MD",1.0737,L,MMTA - Respiratory,1234.95,3261.8,2026.85
+DE,"Dover, DE",1.1673,A,MMTA - Other,1335.58,3452.59,2117.01
+DE,"Dover, DE",1.1673,B,Neuro,1602.33,3852.83,2250.5
+DE,"Dover, DE",1.1673,C,Wound,2304.63,4485.87,2181.24
+DE,"Dover, DE",1.1673,D,Complex,1289.93,3304.2,2014.27
+DE,"Dover, DE",1.1673,E,MS Rehab,1394.75,3585.39,2190.64
+DE,"Dover, DE",1.1673,F,Behavioral Health,1230.3,3403.05,2172.75
+DE,"Dover, DE",1.1673,G,MMTA - Surgical Aftercare,1316.08,3558.1,2242.02
+DE,"Dover, DE",1.1673,H,MMTA - Cardiac,1295.21,3452.59,2157.38
+DE,"Dover, DE",1.1673,I,MMTA - Endocrine,1971.83,3943.43,1971.6
+DE,"Dover, DE",1.1673,J,MMTA - GI/GU,1281.45,3452.59,2171.14
+DE,"Dover, DE",1.1673,K,MMTA - Infectious,1336.72,3573.01,2236.29
+DE,"Dover, DE",1.1673,L,MMTA - Respiratory,1317.0,3478.51,2161.51
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,A,MMTA - Other,1200.37,3103.06,1902.69
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,B,Neuro,1440.11,3462.78,2022.67
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,C,Wound,2071.32,4031.73,1960.41
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,D,Complex,1159.35,2969.69,1810.34
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,E,MS Rehab,1253.55,3222.42,1968.87
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,F,Behavioral Health,1105.75,3058.54,1952.79
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,G,MMTA - Surgical Aftercare,1182.85,3197.89,2015.04
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,H,MMTA - Cardiac,1164.09,3103.06,1938.97
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,I,MMTA - Endocrine,1772.21,3544.21,1772.0
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,J,MMTA - GI/GU,1151.72,3103.06,1951.34
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,K,MMTA - Infectious,1201.4,3211.29,2009.89
+FL,"Sebastian-Vero Beach-West Vero Corridor, FL",1.0152,L,MMTA - Respiratory,1183.67,3126.36,1942.69
+GA,"Rome, GA",1.0373,A,MMTA - Other,1220.01,3153.85,1933.84
+GA,"Rome, GA",1.0373,B,Neuro,1463.68,3519.46,2055.78
+GA,"Rome, GA",1.0373,C,Wound,2105.22,4097.72,1992.5
+GA,"Rome, GA",1.0373,D,Complex,1178.32,3018.29,1839.97
+GA,"Rome, GA",1.0373,E,MS Rehab,1274.07,3275.16,2001.09
+GA,"Rome, GA",1.0373,F,Behavioral Health,1123.85,3108.59,1984.74
+GA,"Rome, GA",1.0373,G,MMTA - Surgical Aftercare,1202.2,3250.23,2048.03
+GA,"Rome, GA",1.0373,H,MMTA - Cardiac,1183.14,3153.85,1970.71
+GA,"Rome, GA",1.0373,I,MMTA - Endocrine,1801.21,3602.21,1801.0
+GA,"Rome, GA",1.0373,J,MMTA - GI/GU,1170.57,3153.85,1983.28
+GA,"Rome, GA",1.0373,K,MMTA - Infectious,1221.06,3263.85,2042.79
+GA,"Rome, GA",1.0373,L,MMTA - Respiratory,1203.04,3177.52,1974.48
+GU,GUAM,0.9611,A,MMTA - Other,1152.28,2978.74,1826.46
+GU,GUAM,0.9611,B,Neuro,1382.41,3324.05,1941.64
+GU,GUAM,0.9611,C,Wound,1988.33,3870.2,1881.87
+GU,GUAM,0.9611,D,Complex,1112.9,2850.71,1737.81
+GU,GUAM,0.9611,E,MS Rehab,1203.33,3093.31,1889.98
+GU,GUAM,0.9611,F,Behavioral Health,1061.45,2936.0,1874.55
+GU,GUAM,0.9611,G,MMTA - Surgical Aftercare,1135.46,3069.77,1934.31
+GU,GUAM,0.9611,H,MMTA - Cardiac,1117.45,2978.74,1861.29
+GU,GUAM,0.9611,I,MMTA - Endocrine,1701.2,3402.21,1701.01
+GU,GUAM,0.9611,J,MMTA - GI/GU,1105.57,2978.74,1873.17
+GU,GUAM,0.9611,K,MMTA - Infectious,1153.26,3082.63,1929.37
+GU,GUAM,0.9611,L,MMTA - Respiratory,1136.25,3001.1,1864.85
+HI,"Urban Honolulu, HI",1.1821,A,MMTA - Other,1348.73,3486.6,2137.87
+HI,"Urban Honolulu, HI",1.1821,B,Neuro,1618.11,3890.78,2272.67
+HI,"Urban Honolulu, HI",1.1821,C,Wound,2327.34,4530.06,2202.72
+HI,"Urban Honolulu, HI",1.1821,D,Complex,1302.64,3336.74,2034.1
+HI,"Urban Honolulu, HI",1.1821,E,MS Rehab,1408.49,3620.71,2212.22
+HI,"Urban Honolulu, HI",1.1821,F,Behavioral Health,1242.42,3436.57,2194.15
+HI,"Urban Honolulu, HI",1.1821,G,MMTA - Surgical Aftercare,1329.05,3593.15,2264.1
+HI,"Urban Honolulu, HI",1.1821,H,MMTA - Cardiac,1307.97,3486.6,2178.63
+HI,"Urban Honolulu, HI",1.1821,I,MMTA - Endocrine,1991.25,3982.27,1991.02
+HI,"Urban Honolulu, HI",1.1821,J,MMTA - GI/GU,1294.07,3486.6,2192.53
+HI,"Urban Honolulu, HI",1.1821,K,MMTA - Infectious,1349.89,3608.21,2258.32
+HI,"Urban Honolulu, HI",1.1821,L,MMTA - Respiratory,1329.97,3512.78,2182.81
+IA,"Des Moines-West Des Moines, IA",0.9156,A,MMTA - Other,1111.83,2874.18,1762.35
+IA,"Des Moines-West Des Moines, IA",0.9156,B,Neuro,1333.89,3207.36,1873.47
+IA,"Des Moines-West Des Moines, IA",0.9156,C,Wound,1918.54,3734.35,1815.81
+IA,"Des Moines-West Des Moines, IA",0.9156,D,Complex,1073.83,2750.64,1676.81
+IA,"Des Moines-West Des Moines, IA",0.9156,E,MS Rehab,1161.09,2984.73,1823.64
+IA,"Des Moines-West Des Moines, IA",0.9156,F,Behavioral Health,1024.19,2832.94,1808.75
+IA,"Des Moines-West Des Moines, IA",0.9156,G,MMTA - Surgical Aftercare,1095.6,2962.01,1866.41
+IA,"Des Moines-West Des Moines, IA",0.9156,H,MMTA - Cardiac,1078.22,2874.18,1795.96
+IA,"Des Moines-West Des Moines, IA",0.9156,I,MMTA - Endocrine,1641.49,3282.78,1641.29
+IA,"Des Moines-West Des Moines, IA",0.9156,J,MMTA - GI/GU,1066.77,2874.18,1807.41
+IA,"Des Moines-West Des Moines, IA",0.9156,K,MMTA - Infectious,1112.78,2974.42,1861.64
+IA,"Des Moines-West Des Moines, IA",0.9156,L,MMTA - Respiratory,1096.36,2895.75,1799.39
+ID,"Coeur d'Alene, ID",0.9905,A,MMTA - Other,1178.41,3046.3,1867.89
+ID,"Coeur d'Alene, ID",0.9905,B,Neuro,1413.77,3399.44,1985.67
+ID,"Coeur d'Alene, ID",0.9905,C,Wound,2033.43,3957.99,1924.56
+ID,"Coeur d'Alene, ID",0.9905,D,Complex,1138.14,2915.37,1777.23
+ID,"Coeur d'Alene, ID",0.9905,E,MS Rehab,1230.62,3163.47,1932.85
+ID,"Coeur d'Alene, ID",0.9905,F,Behavioral Health,1085.52,3002.59,1917.07
+ID,"Coeur d'Alene, ID",0.9905,G,MMTA - Surgical Aftercare,1161.21,3139.39,1978.18
+ID,"Coeur d'Alene, ID",0.9905,H,MMTA - Cardiac,1142.79,3046.3,1903.51
+ID,"Coeur d'Alene, ID",0.9905,I,MMTA - Endocrine,1739.79,3479.38,1739.59
+ID,"Coeur d'Alene, ID",0.9905,J,MMTA - GI/GU,1130.65,3046.3,1915.65
+ID,"Coeur d'Alene, ID",0.9905,K,MMTA - Infectious,1179.42,3152.55,1973.13
+ID,"Coeur d'Alene, ID",0.9905,L,MMTA - Respiratory,1162.02,3069.17,1907.15
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,A,MMTA - Other,1207.12,3120.53,1913.41
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,B,Neuro,1448.22,3482.27,2034.05
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,C,Wound,2082.98,4054.43,1971.45
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,D,Complex,1165.87,2986.4,1820.53
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,E,MS Rehab,1260.61,3240.56,1979.95
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,F,Behavioral Health,1111.97,3075.75,1963.78
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,G,MMTA - Surgical Aftercare,1189.5,3215.89,2026.39
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,H,MMTA - Cardiac,1170.64,3120.53,1949.89
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,I,MMTA - Endocrine,1782.18,3564.16,1781.98
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,J,MMTA - GI/GU,1158.2,3120.53,1962.33
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,K,MMTA - Infectious,1208.16,3229.36,2021.2
+IL,"Chicago-Naperville-Schaumburg, IL",1.0228,L,MMTA - Respiratory,1190.33,3143.95,1953.62
+IN,"Columbus, IN",1.1271,A,MMTA - Other,1299.84,3360.21,2060.37
+IN,"Columbus, IN",1.1271,B,Neuro,1559.45,3749.74,2190.29
+IN,"Columbus, IN",1.1271,C,Wound,2242.97,4365.84,2122.87
+IN,"Columbus, IN",1.1271,D,Complex,1255.42,3215.79,1960.37
+IN,"Columbus, IN",1.1271,E,MS Rehab,1357.43,3489.46,2132.03
+IN,"Columbus, IN",1.1271,F,Behavioral Health,1197.38,3312.0,2114.62
+IN,"Columbus, IN",1.1271,G,MMTA - Surgical Aftercare,1280.87,3462.9,2182.03
+IN,"Columbus, IN",1.1271,H,MMTA - Cardiac,1260.55,3360.21,2099.66
+IN,"Columbus, IN",1.1271,I,MMTA - Endocrine,1919.07,3837.91,1918.84
+IN,"Columbus, IN",1.1271,J,MMTA - GI/GU,1247.16,3360.21,2113.05
+IN,"Columbus, IN",1.1271,K,MMTA - Infectious,1300.96,3477.41,2176.45
+IN,"Columbus, IN",1.1271,L,MMTA - Respiratory,1281.76,3385.44,2103.68
+KS,"Lawrence, KS",0.8785,A,MMTA - Other,1078.85,2788.92,1710.07
+KS,"Lawrence, KS",0.8785,B,Neuro,1294.32,3112.22,1817.9
+KS,"Lawrence, KS",0.8785,C,Wound,1861.63,3623.58,1761.95
+KS,"Lawrence, KS",0.8785,D,Complex,1041.98,2669.05,1627.07
+KS,"Lawrence, KS",0.8785,E,MS Rehab,1126.65,2896.2,1769.55
+KS,"Lawrence, KS",0.8785,F,Behavioral Health,993.81,2748.9,1755.09
+KS,"Lawrence, KS",0.8785,G,MMTA - Surgical Aftercare,1063.1,2874.15,1811.05
+KS,"Lawrence, KS",0.8785,H,MMTA - Cardiac,1046.24,2788.92,1742.68
+KS,"Lawrence, KS",0.8785,I,MMTA - Endocrine,1592.8,3185.41,1592.61
+KS,"Lawrence, KS",0.8785,J,MMTA - GI/GU,1035.12,2788.92,1753.8
+KS,"Lawrence, KS",0.8785,K,MMTA - Infectious,1079.77,2886.19,1806.42
+KS,"Lawrence, KS",0.8785,L,MMTA - Respiratory,1063.84,2809.86,1746.02
+KY,"Lexington-Fayette, KY",0.9449,A,MMTA - Other,1137.87,2941.51,1803.64
+KY,"Lexington-Fayette, KY",0.9449,B,Neuro,1365.14,3282.5,1917.36
+KY,"Lexington-Fayette, KY",0.9449,C,Wound,1963.48,3821.83,1858.35
+KY,"Lexington-Fayette, KY",0.9449,D,Complex,1098.99,2815.08,1716.09
+KY,"Lexington-Fayette, KY",0.9449,E,MS Rehab,1188.29,3054.65,1866.36
+KY,"Lexington-Fayette, KY",0.9449,F,Behavioral Health,1048.18,2899.3,1851.12
+KY,"Lexington-Fayette, KY",0.9449,G,MMTA - Surgical Aftercare,1121.26,3031.4,1910.14
+KY,"Lexington-Fayette, KY",0.9449,H,MMTA - Cardiac,1103.48,2941.51,1838.03
+KY,"Lexington-Fayette, KY",0.9449,I,MMTA - Endocrine,1679.94,3359.69,1679.75
+KY,"Lexington-Fayette, KY",0.9449,J,MMTA - GI/GU,1091.76,2941.51,1849.75
+KY,"Lexington-Fayette, KY",0.9449,K,MMTA - Infectious,1138.85,3044.1,1905.25
+KY,"Lexington-Fayette, KY",0.9449,L,MMTA - Respiratory,1122.05,2963.59,1841.54
+LA,"Alexandria, LA",0.8816,A,MMTA - Other,1081.6,2796.05,1714.45
+LA,"Alexandria, LA",0.8816,B,Neuro,1297.63,3120.17,1822.54
+LA,"Alexandria, LA",0.8816,C,Wound,1866.38,3632.83,1766.45
+LA,"Alexandria, LA",0.8816,D,Complex,1044.64,2675.87,1631.23
+LA,"Alexandria, LA",0.8816,E,MS Rehab,1129.53,2903.59,1774.06
+LA,"Alexandria, LA",0.8816,F,Behavioral Health,996.35,2755.92,1759.57
+LA,"Alexandria, LA",0.8816,G,MMTA - Surgical Aftercare,1065.81,2881.49,1815.68
+LA,"Alexandria, LA",0.8816,H,MMTA - Cardiac,1048.91,2796.05,1747.14
+LA,"Alexandria, LA",0.8816,I,MMTA - Endocrine,1596.86,3193.54,1596.68
+LA,"Alexandria, LA",0.8816,J,MMTA - GI/GU,1037.77,2796.05,1758.28
+LA,"Alexandria, LA",0.8816,K,MMTA - Infectious,1082.53,2893.56,1811.03
+LA,"Alexandria, LA",0.8816,L,MMTA - Respiratory,1066.56,2817.04,1750.48
+MA,"Barnstable Town, MA",1.2554,A,MMTA - Other,1413.89,3655.05,2241.16
+MA,"Barnstable Town, MA",1.2554,B,Neuro,1696.28,4078.76,2382.48
+MA,"Barnstable Town, MA",1.2554,C,Wound,2439.78,4748.92,2309.14
+MA,"Barnstable Town, MA",1.2554,D,Complex,1365.57,3497.95,2132.38
+MA,"Barnstable Town, MA",1.2554,E,MS Rehab,1476.54,3795.64,2319.1
+MA,"Barnstable Town, MA",1.2554,F,Behavioral Health,1302.44,3602.6,2300.16
+MA,"Barnstable Town, MA",1.2554,G,MMTA - Surgical Aftercare,1393.26,3766.74,2373.48
+MA,"Barnstable Town, MA",1.2554,H,MMTA - Cardiac,1371.16,3655.05,2283.89
+MA,"Barnstable Town, MA",1.2554,I,MMTA - Endocrine,2087.46,4174.67,2087.21
+MA,"Barnstable Town, MA",1.2554,J,MMTA - GI/GU,1356.59,3655.05,2298.46
+MA,"Barnstable Town, MA",1.2554,K,MMTA - Infectious,1415.11,3782.53,2367.42
+MA,"Barnstable Town, MA",1.2554,L,MMTA - Respiratory,1394.23,3682.49,2288.26
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,A,MMTA - Other,1163.39,3007.46,1844.07
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,B,Neuro,1395.74,3356.1,1960.36
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,C,Wound,2007.51,3907.53,1900.02
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,D,Complex,1123.63,2878.2,1754.57
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,E,MS Rehab,1214.93,3123.14,1908.21
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,F,Behavioral Health,1071.68,2964.31,1892.63
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,G,MMTA - Surgical Aftercare,1146.4,3099.37,1952.97
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,H,MMTA - Cardiac,1128.22,3007.46,1879.24
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,I,MMTA - Endocrine,1717.61,3435.02,1717.41
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,J,MMTA - GI/GU,1116.24,3007.46,1891.22
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,K,MMTA - Infectious,1164.39,3112.36,1947.97
+MD,"Frederick-Gaithersburg-Bethesda, MD",0.9736,L,MMTA - Respiratory,1147.2,3030.04,1882.84
+ME,"Portland-South Portland, ME",0.9983,A,MMTA - Other,1185.34,3064.23,1878.89
+ME,"Portland-South Portland, ME",0.9983,B,Neuro,1422.09,3419.44,1997.35
+ME,"Portland-South Portland, ME",0.9983,C,Wound,2045.4,3981.27,1935.87
+ME,"Portland-South Portland, ME",0.9983,D,Complex,1144.84,2932.52,1787.68
+ME,"Portland-South Portland, ME",0.9983,E,MS Rehab,1237.86,3182.09,1944.23
+ME,"Portland-South Portland, ME",0.9983,F,Behavioral Health,1091.91,3020.26,1928.35
+ME,"Portland-South Portland, ME",0.9983,G,MMTA - Surgical Aftercare,1168.04,3157.86,1989.82
+ME,"Portland-South Portland, ME",0.9983,H,MMTA - Cardiac,1149.52,3064.23,1914.71
+ME,"Portland-South Portland, ME",0.9983,I,MMTA - Endocrine,1750.03,3499.85,1749.82
+ME,"Portland-South Portland, ME",0.9983,J,MMTA - GI/GU,1137.3,3064.23,1926.93
+ME,"Portland-South Portland, ME",0.9983,K,MMTA - Infectious,1186.36,3171.1,1984.74
+ME,"Portland-South Portland, ME",0.9983,L,MMTA - Respiratory,1168.86,3087.23,1918.37
+MI,"Ann Arbor, MI",0.9869,A,MMTA - Other,1175.21,3038.03,1862.82
+MI,"Ann Arbor, MI",0.9869,B,Neuro,1409.93,3390.21,1980.28
+MI,"Ann Arbor, MI",0.9869,C,Wound,2027.91,3947.24,1919.33
+MI,"Ann Arbor, MI",0.9869,D,Complex,1135.05,2907.45,1772.4
+MI,"Ann Arbor, MI",0.9869,E,MS Rehab,1227.28,3154.88,1927.6
+MI,"Ann Arbor, MI",0.9869,F,Behavioral Health,1082.57,2994.43,1911.86
+MI,"Ann Arbor, MI",0.9869,G,MMTA - Surgical Aftercare,1158.06,3130.87,1972.81
+MI,"Ann Arbor, MI",0.9869,H,MMTA - Cardiac,1139.69,3038.03,1898.34
+MI,"Ann Arbor, MI",0.9869,I,MMTA - Endocrine,1735.06,3469.93,1734.87
+MI,"Ann Arbor, MI",0.9869,J,MMTA - GI/GU,1127.58,3038.03,1910.45
+MI,"Ann Arbor, MI",0.9869,K,MMTA - Infectious,1176.22,3143.98,1967.76
+MI,"Ann Arbor, MI",0.9869,L,MMTA - Respiratory,1158.86,3060.83,1901.97
+MN,"Rochester, MN",1.1304,A,MMTA - Other,1302.78,3367.8,2065.02
+MN,"Rochester, MN",1.1304,B,Neuro,1562.97,3758.2,2195.23
+MN,"Rochester, MN",1.1304,C,Wound,2248.03,4375.7,2127.67
+MN,"Rochester, MN",1.1304,D,Complex,1258.25,3223.04,1964.79
+MN,"Rochester, MN",1.1304,E,MS Rehab,1360.5,3497.34,2136.84
+MN,"Rochester, MN",1.1304,F,Behavioral Health,1200.08,3319.47,2119.39
+MN,"Rochester, MN",1.1304,G,MMTA - Surgical Aftercare,1283.76,3470.71,2186.95
+MN,"Rochester, MN",1.1304,H,MMTA - Cardiac,1263.4,3367.8,2104.4
+MN,"Rochester, MN",1.1304,I,MMTA - Endocrine,1923.4,3846.58,1923.18
+MN,"Rochester, MN",1.1304,J,MMTA - GI/GU,1249.98,3367.8,2117.82
+MN,"Rochester, MN",1.1304,K,MMTA - Infectious,1303.89,3485.25,2181.36
+MN,"Rochester, MN",1.1304,L,MMTA - Respiratory,1284.65,3393.08,2108.43
+MO,"St. Louis, MO-IL",0.9734,A,MMTA - Other,1163.21,3007.0,1843.79
+MO,"St. Louis, MO-IL",0.9734,B,Neuro,1395.53,3355.59,1960.06
+MO,"St. Louis, MO-IL",0.9734,C,Wound,2007.2,3906.93,1899.73
+MO,"St. Louis, MO-IL",0.9734,D,Complex,1123.46,2877.76,1754.3
+MO,"St. Louis, MO-IL",0.9734,E,MS Rehab,1214.75,3122.67,1907.92
+MO,"St. Louis, MO-IL",0.9734,F,Behavioral Health,1071.52,2963.86,1892.34
+MO,"St. Louis, MO-IL",0.9734,G,MMTA - Surgical Aftercare,1146.23,3098.9,1952.67
+MO,"St. Louis, MO-IL",0.9734,H,MMTA - Cardiac,1128.05,3007.0,1878.95
+MO,"St. Louis, MO-IL",0.9734,I,MMTA - Endocrine,1717.35,3434.49,1717.14
+MO,"St. Louis, MO-IL",0.9734,J,MMTA - GI/GU,1116.07,3007.0,1890.93
+MO,"St. Louis, MO-IL",0.9734,K,MMTA - Infectious,1164.21,3111.88,1947.67
+MO,"St. Louis, MO-IL",0.9734,L,MMTA - Respiratory,1147.03,3029.58,1882.55
+MS,"Jackson, MS",0.8493,A,MMTA - Other,1052.89,2721.82,1668.93
+MS,"Jackson, MS",0.8493,B,Neuro,1263.18,3037.34,1774.16
+MS,"Jackson, MS",0.8493,C,Wound,1816.84,3536.39,1719.55
+MS,"Jackson, MS",0.8493,D,Complex,1016.91,2604.83,1587.92
+MS,"Jackson, MS",0.8493,E,MS Rehab,1099.54,2826.51,1726.97
+MS,"Jackson, MS",0.8493,F,Behavioral Health,969.9,2682.76,1712.86
+MS,"Jackson, MS",0.8493,G,MMTA - Surgical Aftercare,1037.52,2804.99,1767.47
+MS,"Jackson, MS",0.8493,H,MMTA - Cardiac,1021.07,2721.82,1700.75
+MS,"Jackson, MS",0.8493,I,MMTA - Endocrine,1554.47,3108.76,1554.29
+MS,"Jackson, MS",0.8493,J,MMTA - GI/GU,1010.22,2721.82,1711.6
+MS,"Jackson, MS",0.8493,K,MMTA - Infectious,1053.79,2816.75,1762.96
+MS,"Jackson, MS",0.8493,L,MMTA - Respiratory,1038.24,2742.25,1704.01
+MT,MONTANA,1.1433,A,MMTA - Other,1314.24,3397.44,2083.2
+MT,MONTANA,1.1433,B,Neuro,1576.73,3791.28,2214.55
+MT,MONTANA,1.1433,C,Wound,2267.82,4414.21,2146.39
+MT,MONTANA,1.1433,D,Complex,1269.33,3251.41,1982.08
+MT,MONTANA,1.1433,E,MS Rehab,1372.47,3528.12,2155.65
+MT,MONTANA,1.1433,F,Behavioral Health,1210.65,3348.69,2138.04
+MT,MONTANA,1.1433,G,MMTA - Surgical Aftercare,1295.06,3501.26,2206.2
+MT,MONTANA,1.1433,H,MMTA - Cardiac,1274.52,3397.44,2122.92
+MT,MONTANA,1.1433,I,MMTA - Endocrine,1940.33,3880.44,1940.11
+MT,MONTANA,1.1433,J,MMTA - GI/GU,1260.98,3397.44,2136.46
+MT,MONTANA,1.1433,K,MMTA - Infectious,1315.37,3515.93,2200.56
+MT,MONTANA,1.1433,L,MMTA - Respiratory,1295.96,3422.94,2126.98
+NC,"Wilmington, NC",0.9865,A,MMTA - Other,1174.85,3037.11,1862.26
+NC,"Wilmington, NC",0.9865,B,Neuro,1409.5,3389.18,1979.68
+NC,"Wilmington, NC",0.9865,C,Wound,2027.3,3946.04,1918.74
+NC,"Wilmington, NC",0.9865,D,Complex,1134.7,2906.57,1771.87
+NC,"Wilmington, NC",0.9865,E,MS Rehab,1226.91,3153.93,1927.02
+NC,"Wilmington, NC",0.9865,F,Behavioral Health,1082.25,2993.53,1911.28
+NC,"Wilmington, NC",0.9865,G,MMTA - Surgical Aftercare,1157.7,3129.92,1972.22
+NC,"Wilmington, NC",0.9865,H,MMTA - Cardiac,1139.34,3037.11,1897.77
+NC,"Wilmington, NC",0.9865,I,MMTA - Endocrine,1734.54,3468.88,1734.34
+NC,"Wilmington, NC",0.9865,J,MMTA - GI/GU,1127.24,3037.11,1909.87
+NC,"Wilmington, NC",0.9865,K,MMTA - Infectious,1175.86,3143.03,1967.17
+NC,"Wilmington, NC",0.9865,L,MMTA - Respiratory,1158.51,3059.91,1901.4
+ND,"Bismarck, ND",0.8919,A,MMTA - Other,1090.76,2819.72,1728.96
+ND,"Bismarck, ND",0.8919,B,Neuro,1308.61,3146.59,1837.98
+ND,"Bismarck, ND",0.8919,C,Wound,1882.18,3663.59,1781.41
+ND,"Bismarck, ND",0.8919,D,Complex,1053.48,2698.52,1645.04
+ND,"Bismarck, ND",0.8919,E,MS Rehab,1139.09,2928.17,1789.08
+ND,"Bismarck, ND",0.8919,F,Behavioral Health,1004.78,2779.25,1774.47
+ND,"Bismarck, ND",0.8919,G,MMTA - Surgical Aftercare,1074.84,2905.88,1831.04
+ND,"Bismarck, ND",0.8919,H,MMTA - Cardiac,1057.79,2819.72,1761.93
+ND,"Bismarck, ND",0.8919,I,MMTA - Endocrine,1610.38,3220.58,1610.2
+ND,"Bismarck, ND",0.8919,J,MMTA - GI/GU,1046.55,2819.72,1773.17
+ND,"Bismarck, ND",0.8919,K,MMTA - Infectious,1091.7,2918.06,1826.36
+ND,"Bismarck, ND",0.8919,L,MMTA - Respiratory,1075.59,2840.88,1765.29
+NE,"Omaha, NE-IA",1.0402,A,MMTA - Other,1222.59,3160.51,1937.92
+NE,"Omaha, NE-IA",1.0402,B,Neuro,1466.77,3526.89,2060.12
+NE,"Omaha, NE-IA",1.0402,C,Wound,2109.67,4106.38,1996.71
+NE,"Omaha, NE-IA",1.0402,D,Complex,1180.81,3024.67,1843.86
+NE,"Omaha, NE-IA",1.0402,E,MS Rehab,1276.76,3282.08,2005.32
+NE,"Omaha, NE-IA",1.0402,F,Behavioral Health,1126.22,3115.16,1988.94
+NE,"Omaha, NE-IA",1.0402,G,MMTA - Surgical Aftercare,1204.74,3257.09,2052.35
+NE,"Omaha, NE-IA",1.0402,H,MMTA - Cardiac,1185.64,3160.51,1974.87
+NE,"Omaha, NE-IA",1.0402,I,MMTA - Endocrine,1805.02,3609.83,1804.81
+NE,"Omaha, NE-IA",1.0402,J,MMTA - GI/GU,1173.04,3160.51,1987.47
+NE,"Omaha, NE-IA",1.0402,K,MMTA - Infectious,1223.64,3270.74,2047.1
+NE,"Omaha, NE-IA",1.0402,L,MMTA - Respiratory,1205.58,3184.24,1978.66
+NH,NEW HAMPSHIRE,1.0138,A,MMTA - Other,1199.12,3099.85,1900.73
+NH,NEW HAMPSHIRE,1.0138,B,Neuro,1438.62,3459.19,2020.57
+NH,NEW HAMPSHIRE,1.0138,C,Wound,2069.17,4027.55,1958.38
+NH,NEW HAMPSHIRE,1.0138,D,Complex,1158.14,2966.61,1808.47
+NH,NEW HAMPSHIRE,1.0138,E,MS Rehab,1252.25,3219.08,1966.83
+NH,NEW HAMPSHIRE,1.0138,F,Behavioral Health,1104.6,3055.36,1950.76
+NH,NEW HAMPSHIRE,1.0138,G,MMTA - Surgical Aftercare,1181.62,3194.57,2012.95
+NH,NEW HAMPSHIRE,1.0138,H,MMTA - Cardiac,1162.88,3099.85,1936.97
+NH,NEW HAMPSHIRE,1.0138,I,MMTA - Endocrine,1770.37,3540.53,1770.16
+NH,NEW HAMPSHIRE,1.0138,J,MMTA - GI/GU,1150.52,3099.85,1949.33
+NH,NEW HAMPSHIRE,1.0138,K,MMTA - Infectious,1200.15,3207.96,2007.81
+NH,NEW HAMPSHIRE,1.0138,L,MMTA - Respiratory,1182.44,3123.12,1940.68
+NJ,"Lakewood-New Brunswick, NJ",1.1274,A,MMTA - Other,1300.11,3360.9,2060.79
+NJ,"Lakewood-New Brunswick, NJ",1.1274,B,Neuro,1559.77,3750.51,2190.74
+NJ,"Lakewood-New Brunswick, NJ",1.1274,C,Wound,2243.43,4366.74,2123.31
+NJ,"Lakewood-New Brunswick, NJ",1.1274,D,Complex,1255.68,3216.45,1960.77
+NJ,"Lakewood-New Brunswick, NJ",1.1274,E,MS Rehab,1357.71,3490.18,2132.47
+NJ,"Lakewood-New Brunswick, NJ",1.1274,F,Behavioral Health,1197.63,3312.68,2115.05
+NJ,"Lakewood-New Brunswick, NJ",1.1274,G,MMTA - Surgical Aftercare,1281.13,3463.61,2182.48
+NJ,"Lakewood-New Brunswick, NJ",1.1274,H,MMTA - Cardiac,1260.81,3360.9,2100.09
+NJ,"Lakewood-New Brunswick, NJ",1.1274,I,MMTA - Endocrine,1919.46,3838.7,1919.24
+NJ,"Lakewood-New Brunswick, NJ",1.1274,J,MMTA - GI/GU,1247.42,3360.9,2113.48
+NJ,"Lakewood-New Brunswick, NJ",1.1274,K,MMTA - Infectious,1301.22,3478.12,2176.9
+NJ,"Lakewood-New Brunswick, NJ",1.1274,L,MMTA - Respiratory,1282.02,3386.13,2104.11
+NM,"Santa Fe, NM",1.0201,A,MMTA - Other,1204.72,3114.32,1909.6
+NM,"Santa Fe, NM",1.0201,B,Neuro,1445.34,3475.35,2030.01
+NM,"Santa Fe, NM",1.0201,C,Wound,2078.84,4046.36,1967.52
+NM,"Santa Fe, NM",1.0201,D,Complex,1163.55,2980.46,1816.91
+NM,"Santa Fe, NM",1.0201,E,MS Rehab,1258.1,3234.11,1976.01
+NM,"Santa Fe, NM",1.0201,F,Behavioral Health,1109.76,3069.63,1959.87
+NM,"Santa Fe, NM",1.0201,G,MMTA - Surgical Aftercare,1187.14,3209.49,2022.35
+NM,"Santa Fe, NM",1.0201,H,MMTA - Cardiac,1168.31,3114.32,1946.01
+NM,"Santa Fe, NM",1.0201,I,MMTA - Endocrine,1778.64,3557.07,1778.43
+NM,"Santa Fe, NM",1.0201,J,MMTA - GI/GU,1155.9,3114.32,1958.42
+NM,"Santa Fe, NM",1.0201,K,MMTA - Infectious,1205.76,3222.94,2017.18
+NM,"Santa Fe, NM",1.0201,L,MMTA - Respiratory,1187.97,3137.7,1949.73
+NV,NEVADA,1.1108,A,MMTA - Other,1285.35,3322.75,2037.4
+NV,NEVADA,1.1108,B,Neuro,1542.07,3707.94,2165.87
+NV,NEVADA,1.1108,C,Wound,2217.97,4317.17,2099.2
+NV,NEVADA,1.1108,D,Complex,1241.43,3179.94,1938.51
+NV,NEVADA,1.1108,E,MS Rehab,1342.3,3450.56,2108.26
+NV,NEVADA,1.1108,F,Behavioral Health,1184.03,3275.08,2091.05
+NV,NEVADA,1.1108,G,MMTA - Surgical Aftercare,1266.59,3424.29,2157.7
+NV,NEVADA,1.1108,H,MMTA - Cardiac,1246.5,3322.75,2076.25
+NV,NEVADA,1.1108,I,MMTA - Endocrine,1897.68,3795.13,1897.45
+NV,NEVADA,1.1108,J,MMTA - GI/GU,1233.26,3322.75,2089.49
+NV,NEVADA,1.1108,K,MMTA - Infectious,1286.46,3438.64,2152.18
+NV,NEVADA,1.1108,L,MMTA - Respiratory,1267.47,3347.7,2080.23
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,A,MMTA - Other,1449.19,3746.28,2297.09
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,B,Neuro,1738.63,4180.56,2441.93
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,C,Wound,2500.67,4867.45,2366.78
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,D,Complex,1399.66,3585.26,2185.6
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,E,MS Rehab,1513.4,3890.38,2376.98
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,F,Behavioral Health,1334.95,3692.53,2357.58
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,G,MMTA - Surgical Aftercare,1428.03,3860.76,2432.73
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,H,MMTA - Cardiac,1405.38,3746.28,2340.9
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,I,MMTA - Endocrine,2139.56,4278.87,2139.31
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,J,MMTA - GI/GU,1390.45,3746.28,2355.83
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,K,MMTA - Infectious,1450.43,3876.94,2426.51
+NY,"New York-Jersey City-White Plains, NY-NJ",1.2951,L,MMTA - Respiratory,1429.03,3774.4,2345.37
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,A,MMTA - Other,1155.39,2986.78,1831.39
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,B,Neuro,1386.15,3333.02,1946.87
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,C,Wound,1993.7,3880.65,1886.95
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,D,Complex,1115.9,2858.41,1742.51
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,E,MS Rehab,1206.58,3101.67,1895.09
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,F,Behavioral Health,1064.31,2943.92,1879.61
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,G,MMTA - Surgical Aftercare,1138.52,3078.05,1939.53
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,H,MMTA - Cardiac,1120.46,2986.78,1866.32
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,I,MMTA - Endocrine,1705.8,3411.4,1705.6
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,J,MMTA - GI/GU,1108.56,2986.78,1878.22
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,K,MMTA - Infectious,1156.38,3090.95,1934.57
+OH,"Dayton-Kettering-Beavercreek, OH",0.9646,L,MMTA - Respiratory,1139.31,3009.2,1869.89
+OK,"Oklahoma City, OK",0.8721,A,MMTA - Other,1073.16,2774.21,1701.05
+OK,"Oklahoma City, OK",0.8721,B,Neuro,1287.49,3095.81,1808.32
+OK,"Oklahoma City, OK",0.8721,C,Wound,1851.81,3604.47,1752.66
+OK,"Oklahoma City, OK",0.8721,D,Complex,1036.48,2654.97,1618.49
+OK,"Oklahoma City, OK",0.8721,E,MS Rehab,1120.71,2880.92,1760.21
+OK,"Oklahoma City, OK",0.8721,F,Behavioral Health,988.57,2734.41,1745.84
+OK,"Oklahoma City, OK",0.8721,G,MMTA - Surgical Aftercare,1057.49,2858.99,1801.5
+OK,"Oklahoma City, OK",0.8721,H,MMTA - Cardiac,1040.72,2774.21,1733.49
+OK,"Oklahoma City, OK",0.8721,I,MMTA - Endocrine,1584.4,3168.61,1584.21
+OK,"Oklahoma City, OK",0.8721,J,MMTA - GI/GU,1029.66,2774.21,1744.55
+OK,"Oklahoma City, OK",0.8721,K,MMTA - Infectious,1074.08,2870.97,1796.89
+OK,"Oklahoma City, OK",0.8721,L,MMTA - Respiratory,1058.23,2795.04,1736.81
+OR,"Grants Pass, OR",1.2904,A,MMTA - Other,1445.01,3735.48,2290.47
+OR,"Grants Pass, OR",1.2904,B,Neuro,1733.61,4168.51,2434.9
+OR,"Grants Pass, OR",1.2904,C,Wound,2493.46,4853.42,2359.96
+OR,"Grants Pass, OR",1.2904,D,Complex,1395.63,3574.92,2179.29
+OR,"Grants Pass, OR",1.2904,E,MS Rehab,1509.03,3879.16,2370.13
+OR,"Grants Pass, OR",1.2904,F,Behavioral Health,1331.1,3681.88,2350.78
+OR,"Grants Pass, OR",1.2904,G,MMTA - Surgical Aftercare,1423.91,3849.63,2425.72
+OR,"Grants Pass, OR",1.2904,H,MMTA - Cardiac,1401.33,3735.48,2334.15
+OR,"Grants Pass, OR",1.2904,I,MMTA - Endocrine,2133.39,4266.53,2133.14
+OR,"Grants Pass, OR",1.2904,J,MMTA - GI/GU,1386.44,3735.48,2349.04
+OR,"Grants Pass, OR",1.2904,K,MMTA - Infectious,1446.25,3865.76,2419.51
+OR,"Grants Pass, OR",1.2904,L,MMTA - Respiratory,1424.91,3763.52,2338.61
+PA,"State College, PA",1.1283,A,MMTA - Other,1300.91,3362.97,2062.06
+PA,"State College, PA",1.1283,B,Neuro,1560.73,3752.82,2192.09
+PA,"State College, PA",1.1283,C,Wound,2244.81,4369.43,2124.62
+PA,"State College, PA",1.1283,D,Complex,1256.45,3218.42,1961.97
+PA,"State College, PA",1.1283,E,MS Rehab,1358.55,3492.32,2133.77
+PA,"State College, PA",1.1283,F,Behavioral Health,1198.36,3314.71,2116.35
+PA,"State College, PA",1.1283,G,MMTA - Surgical Aftercare,1281.92,3465.74,2183.82
+PA,"State College, PA",1.1283,H,MMTA - Cardiac,1261.59,3362.97,2101.38
+PA,"State College, PA",1.1283,I,MMTA - Endocrine,1920.64,3841.06,1920.42
+PA,"State College, PA",1.1283,J,MMTA - GI/GU,1248.18,3362.97,2114.79
+PA,"State College, PA",1.1283,K,MMTA - Infectious,1302.03,3480.26,2178.23
+PA,"State College, PA",1.1283,L,MMTA - Respiratory,1282.81,3388.22,2105.41
+PR,"Guayama, PR",0.3819,A,MMTA - Other,637.39,1647.72,1010.33
+PR,"Guayama, PR",0.3819,B,Neuro,764.7,1838.73,1074.03
+PR,"Guayama, PR",0.3819,C,Wound,1099.87,2140.84,1040.97
+PR,"Guayama, PR",0.3819,D,Complex,615.61,1576.9,961.29
+PR,"Guayama, PR",0.3819,E,MS Rehab,665.63,1711.1,1045.47
+PR,"Guayama, PR",0.3819,F,Behavioral Health,587.15,1624.08,1036.93
+PR,"Guayama, PR",0.3819,G,MMTA - Surgical Aftercare,628.09,1698.07,1069.98
+PR,"Guayama, PR",0.3819,H,MMTA - Cardiac,618.13,1647.72,1029.59
+PR,"Guayama, PR",0.3819,I,MMTA - Endocrine,941.04,1881.97,940.93
+PR,"Guayama, PR",0.3819,J,MMTA - GI/GU,611.56,1647.72,1036.16
+PR,"Guayama, PR",0.3819,K,MMTA - Infectious,637.94,1705.19,1067.25
+PR,"Guayama, PR",0.3819,L,MMTA - Respiratory,628.53,1660.09,1031.56
+RI,"Providence-Warwick, RI-MA",1.004,A,MMTA - Other,1190.41,3077.32,1886.91
+RI,"Providence-Warwick, RI-MA",1.004,B,Neuro,1428.17,3434.06,2005.89
+RI,"Providence-Warwick, RI-MA",1.004,C,Wound,2054.14,3998.29,1944.15
+RI,"Providence-Warwick, RI-MA",1.004,D,Complex,1149.73,2945.06,1795.33
+RI,"Providence-Warwick, RI-MA",1.004,E,MS Rehab,1243.15,3195.69,1952.54
+RI,"Providence-Warwick, RI-MA",1.004,F,Behavioral Health,1096.58,3033.17,1936.59
+RI,"Providence-Warwick, RI-MA",1.004,G,MMTA - Surgical Aftercare,1173.03,3171.36,1998.33
+RI,"Providence-Warwick, RI-MA",1.004,H,MMTA - Cardiac,1154.43,3077.32,1922.89
+RI,"Providence-Warwick, RI-MA",1.004,I,MMTA - Endocrine,1757.51,3514.81,1757.3
+RI,"Providence-Warwick, RI-MA",1.004,J,MMTA - GI/GU,1142.17,3077.32,1935.15
+RI,"Providence-Warwick, RI-MA",1.004,K,MMTA - Infectious,1191.43,3184.65,1993.22
+RI,"Providence-Warwick, RI-MA",1.004,L,MMTA - Respiratory,1173.85,3100.43,1926.58
+SC,"Columbia, SC",0.9208,A,MMTA - Other,1116.45,2886.13,1769.68
+SC,"Columbia, SC",0.9208,B,Neuro,1339.43,3220.7,1881.27
+SC,"Columbia, SC",0.9208,C,Wound,1926.51,3749.88,1823.37
+SC,"Columbia, SC",0.9208,D,Complex,1078.3,2762.08,1683.78
+SC,"Columbia, SC",0.9208,E,MS Rehab,1165.92,2997.14,1831.22
+SC,"Columbia, SC",0.9208,F,Behavioral Health,1028.45,2844.71,1816.26
+SC,"Columbia, SC",0.9208,G,MMTA - Surgical Aftercare,1100.15,2974.32,1874.17
+SC,"Columbia, SC",0.9208,H,MMTA - Cardiac,1082.71,2886.13,1803.42
+SC,"Columbia, SC",0.9208,I,MMTA - Endocrine,1648.31,3296.43,1648.12
+SC,"Columbia, SC",0.9208,J,MMTA - GI/GU,1071.2,2886.13,1814.93
+SC,"Columbia, SC",0.9208,K,MMTA - Infectious,1117.41,2986.79,1869.38
+SC,"Columbia, SC",0.9208,L,MMTA - Respiratory,1100.92,2907.79,1806.87
+SD,"Rapid City, SD",0.8843,A,MMTA - Other,1084.0,2802.25,1718.25
+SD,"Rapid City, SD",0.8843,B,Neuro,1300.51,3127.1,1826.59
+SD,"Rapid City, SD",0.8843,C,Wound,1870.52,3640.9,1770.38
+SD,"Rapid City, SD",0.8843,D,Complex,1046.96,2681.81,1634.85
+SD,"Rapid City, SD",0.8843,E,MS Rehab,1132.03,2910.04,1778.01
+SD,"Rapid City, SD",0.8843,F,Behavioral Health,998.56,2762.04,1763.48
+SD,"Rapid City, SD",0.8843,G,MMTA - Surgical Aftercare,1068.18,2887.88,1819.7
+SD,"Rapid City, SD",0.8843,H,MMTA - Cardiac,1051.24,2802.25,1751.01
+SD,"Rapid City, SD",0.8843,I,MMTA - Endocrine,1600.41,3200.63,1600.22
+SD,"Rapid City, SD",0.8843,J,MMTA - GI/GU,1040.07,2802.25,1762.18
+SD,"Rapid City, SD",0.8843,K,MMTA - Infectious,1084.93,2899.98,1815.05
+SD,"Rapid City, SD",0.8843,L,MMTA - Respiratory,1068.92,2823.29,1754.37
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,A,MMTA - Other,1105.07,2856.71,1751.64
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,B,Neuro,1325.78,3187.87,1862.09
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,C,Wound,1906.88,3711.66,1804.78
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,D,Complex,1067.31,2733.93,1666.62
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,E,MS Rehab,1154.03,2966.59,1812.56
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,F,Behavioral Health,1017.96,2815.72,1797.76
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,G,MMTA - Surgical Aftercare,1088.94,2944.01,1855.07
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,H,MMTA - Cardiac,1071.67,2856.71,1785.04
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,I,MMTA - Endocrine,1631.51,3262.84,1631.33
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,J,MMTA - GI/GU,1060.28,2856.71,1796.43
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,K,MMTA - Infectious,1106.02,2956.35,1850.33
+TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",0.908,L,MMTA - Respiratory,1089.7,2878.16,1788.46
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,A,MMTA - Other,1162.76,3005.86,1843.1
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,B,Neuro,1395.0,3354.31,1959.31
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,C,Wound,2006.43,3905.44,1899.01
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,D,Complex,1123.03,2876.66,1753.63
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,E,MS Rehab,1214.28,3121.47,1907.19
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,F,Behavioral Health,1071.11,2962.72,1891.61
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,G,MMTA - Surgical Aftercare,1145.79,3097.71,1951.92
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,H,MMTA - Cardiac,1127.62,3005.86,1878.24
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,I,MMTA - Endocrine,1716.69,3433.18,1716.49
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,J,MMTA - GI/GU,1115.64,3005.86,1890.22
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,K,MMTA - Infectious,1163.76,3110.69,1946.93
+TX,"Houston-Pasadena-The Woodlands, TX",0.9729,L,MMTA - Respiratory,1146.59,3028.42,1881.83
+UT,"St. George, UT",0.9998,A,MMTA - Other,1186.68,3067.67,1880.99
+UT,"St. George, UT",0.9998,B,Neuro,1423.69,3423.29,1999.6
+UT,"St. George, UT",0.9998,C,Wound,2047.7,3985.75,1938.05
+UT,"St. George, UT",0.9998,D,Complex,1146.12,2935.82,1789.7
+UT,"St. George, UT",0.9998,E,MS Rehab,1239.26,3185.67,1946.41
+UT,"St. George, UT",0.9998,F,Behavioral Health,1093.14,3023.65,1930.51
+UT,"St. George, UT",0.9998,G,MMTA - Surgical Aftercare,1169.36,3161.42,1992.06
+UT,"St. George, UT",0.9998,H,MMTA - Cardiac,1150.81,3067.67,1916.86
+UT,"St. George, UT",0.9998,I,MMTA - Endocrine,1752.0,3503.79,1751.79
+UT,"St. George, UT",0.9998,J,MMTA - GI/GU,1138.58,3067.67,1929.09
+UT,"St. George, UT",0.9998,K,MMTA - Infectious,1187.7,3174.66,1986.96
+UT,"St. George, UT",0.9998,L,MMTA - Respiratory,1170.17,3090.7,1920.53
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,A,MMTA - Other,1226.77,3171.31,1944.54
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,B,Neuro,1471.79,3538.94,2067.15
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,C,Wound,2116.88,4120.41,2003.53
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,D,Complex,1184.84,3035.01,1850.17
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,E,MS Rehab,1281.12,3293.3,2012.18
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,F,Behavioral Health,1130.07,3125.81,1995.74
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,G,MMTA - Surgical Aftercare,1208.86,3268.23,2059.37
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,H,MMTA - Cardiac,1189.69,3171.31,1981.62
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,I,MMTA - Endocrine,1811.19,3622.16,1810.97
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,J,MMTA - GI/GU,1177.05,3171.31,1994.26
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,K,MMTA - Infectious,1227.82,3281.92,2054.1
+VA,"Arlington-Alexandria-Reston, VA-WV",1.0449,L,MMTA - Respiratory,1209.7,3195.12,1985.42
+VI,VIRGIN ISLANDS,0.5293,A,MMTA - Other,768.42,1986.45,1218.03
+VI,VIRGIN ISLANDS,0.5293,B,Neuro,921.9,2216.73,1294.83
+VI,VIRGIN ISLANDS,0.5293,C,Wound,1325.97,2580.95,1254.98
+VI,VIRGIN ISLANDS,0.5293,D,Complex,742.16,1901.07,1158.91
+VI,VIRGIN ISLANDS,0.5293,E,MS Rehab,802.47,2062.86,1260.39
+VI,VIRGIN ISLANDS,0.5293,F,Behavioral Health,707.85,1957.95,1250.1
+VI,VIRGIN ISLANDS,0.5293,G,MMTA - Surgical Aftercare,757.21,2047.15,1289.94
+VI,VIRGIN ISLANDS,0.5293,H,MMTA - Cardiac,745.2,1986.45,1241.25
+VI,VIRGIN ISLANDS,0.5293,I,MMTA - Endocrine,1134.49,2268.85,1134.36
+VI,VIRGIN ISLANDS,0.5293,J,MMTA - GI/GU,737.28,1986.45,1249.17
+VI,VIRGIN ISLANDS,0.5293,K,MMTA - Infectious,769.08,2055.73,1286.65
+VI,VIRGIN ISLANDS,0.5293,L,MMTA - Respiratory,757.74,2001.36,1243.62
+VT,"Burlington-South Burlington, VT",0.9839,A,MMTA - Other,1172.54,3031.13,1858.59
+VT,"Burlington-South Burlington, VT",0.9839,B,Neuro,1406.73,3382.51,1975.78
+VT,"Burlington-South Burlington, VT",0.9839,C,Wound,2023.31,3938.28,1914.97
+VT,"Burlington-South Burlington, VT",0.9839,D,Complex,1132.47,2900.85,1768.38
+VT,"Burlington-South Burlington, VT",0.9839,E,MS Rehab,1224.5,3147.72,1923.22
+VT,"Burlington-South Burlington, VT",0.9839,F,Behavioral Health,1080.12,2987.64,1907.52
+VT,"Burlington-South Burlington, VT",0.9839,G,MMTA - Surgical Aftercare,1155.43,3123.76,1968.33
+VT,"Burlington-South Burlington, VT",0.9839,H,MMTA - Cardiac,1137.1,3031.13,1894.03
+VT,"Burlington-South Burlington, VT",0.9839,I,MMTA - Endocrine,1731.13,3462.05,1730.92
+VT,"Burlington-South Burlington, VT",0.9839,J,MMTA - GI/GU,1125.02,3031.13,1906.11
+VT,"Burlington-South Burlington, VT",0.9839,K,MMTA - Infectious,1173.55,3136.85,1963.3
+VT,"Burlington-South Burlington, VT",0.9839,L,MMTA - Respiratory,1156.23,3053.89,1897.66
+WA,"Tacoma-Lakewood, WA",1.2721,A,MMTA - Other,1428.74,3693.43,2264.69
+WA,"Tacoma-Lakewood, WA",1.2721,B,Neuro,1714.1,4121.58,2407.48
+WA,"Tacoma-Lakewood, WA",1.2721,C,Wound,2465.39,4798.78,2333.39
+WA,"Tacoma-Lakewood, WA",1.2721,D,Complex,1379.91,3534.68,2154.77
+WA,"Tacoma-Lakewood, WA",1.2721,E,MS Rehab,1492.04,3835.49,2343.45
+WA,"Tacoma-Lakewood, WA",1.2721,F,Behavioral Health,1316.12,3640.43,2324.31
+WA,"Tacoma-Lakewood, WA",1.2721,G,MMTA - Surgical Aftercare,1407.88,3806.29,2398.41
+WA,"Tacoma-Lakewood, WA",1.2721,H,MMTA - Cardiac,1385.56,3693.43,2307.87
+WA,"Tacoma-Lakewood, WA",1.2721,I,MMTA - Endocrine,2109.37,4218.5,2109.13
+WA,"Tacoma-Lakewood, WA",1.2721,J,MMTA - GI/GU,1370.83,3693.43,2322.6
+WA,"Tacoma-Lakewood, WA",1.2721,K,MMTA - Infectious,1429.97,3822.24,2392.27
+WA,"Tacoma-Lakewood, WA",1.2721,L,MMTA - Respiratory,1408.87,3721.15,2312.28
+WI,"Eau Claire, WI",0.9891,A,MMTA - Other,1177.17,3043.08,1865.91
+WI,"Eau Claire, WI",0.9891,B,Neuro,1412.28,3395.85,1983.57
+WI,"Eau Claire, WI",0.9891,C,Wound,2031.28,3953.81,1922.53
+WI,"Eau Claire, WI",0.9891,D,Complex,1136.94,2912.29,1775.35
+WI,"Eau Claire, WI",0.9891,E,MS Rehab,1229.32,3160.13,1930.81
+WI,"Eau Claire, WI",0.9891,F,Behavioral Health,1084.38,2999.42,1915.04
+WI,"Eau Claire, WI",0.9891,G,MMTA - Surgical Aftercare,1159.98,3136.08,1976.1
+WI,"Eau Claire, WI",0.9891,H,MMTA - Cardiac,1141.59,3043.08,1901.49
+WI,"Eau Claire, WI",0.9891,I,MMTA - Endocrine,1737.95,3475.7,1737.75
+WI,"Eau Claire, WI",0.9891,J,MMTA - GI/GU,1129.46,3043.08,1913.62
+WI,"Eau Claire, WI",0.9891,K,MMTA - Infectious,1178.18,3149.22,1971.04
+WI,"Eau Claire, WI",0.9891,L,MMTA - Respiratory,1160.79,3065.93,1905.14
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,A,MMTA - Other,1096.27,2833.96,1737.69
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,B,Neuro,1315.22,3162.49,1847.27
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,C,Wound,1891.69,3682.1,1790.41
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,D,Complex,1058.81,2712.16,1653.35
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,E,MS Rehab,1144.84,2942.97,1798.13
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,F,Behavioral Health,1009.86,2793.3,1783.44
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,G,MMTA - Surgical Aftercare,1080.27,2920.57,1840.3
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,H,MMTA - Cardiac,1063.14,2833.96,1770.82
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,I,MMTA - Endocrine,1618.52,3236.85,1618.33
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,J,MMTA - GI/GU,1051.84,2833.96,1782.12
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,K,MMTA - Infectious,1097.21,2932.8,1835.59
+WV,"Huntington-Ashland, WV-KY-OH",0.8981,L,MMTA - Respiratory,1081.02,2855.24,1774.22
+WY,WYOMING,0.9845,A,MMTA - Other,1173.08,3032.51,1859.43
+WY,WYOMING,0.9845,B,Neuro,1407.37,3384.05,1976.68
+WY,WYOMING,0.9845,C,Wound,2024.23,3940.07,1915.84
+WY,WYOMING,0.9845,D,Complex,1132.99,2902.17,1769.18
+WY,WYOMING,0.9845,E,MS Rehab,1225.05,3149.16,1924.11
+WY,WYOMING,0.9845,F,Behavioral Health,1080.61,2989.0,1908.39
+WY,WYOMING,0.9845,G,MMTA - Surgical Aftercare,1155.95,3125.18,1969.23
+WY,WYOMING,0.9845,H,MMTA - Cardiac,1137.62,3032.51,1894.89
+WY,WYOMING,0.9845,I,MMTA - Endocrine,1731.91,3463.63,1731.72
+WY,WYOMING,0.9845,J,MMTA - GI/GU,1125.53,3032.51,1906.98
+WY,WYOMING,0.9845,K,MMTA - Infectious,1174.08,3138.28,1964.2
+WY,WYOMING,0.9845,L,MMTA - Respiratory,1156.76,3055.28,1898.52
