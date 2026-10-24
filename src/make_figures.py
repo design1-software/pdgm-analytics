@@ -8,6 +8,7 @@ import os
 
 import matplotlib
 matplotlib.use("Agg")
+import matplotlib.font_manager as fm
 import matplotlib.pyplot as plt
 import pandas as pd
 from matplotlib.patches import FancyBboxPatch
@@ -15,6 +16,16 @@ from matplotlib.patches import FancyBboxPatch
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TABLEAU = os.path.join(ROOT, "outputs", "tableau")
 FIGURES = os.path.join(ROOT, "outputs", "figures")
+FONTS = os.path.join(ROOT, "assets", "fonts")
+
+# Inter is vendored (SIL OFL 1.1, see assets/fonts/OFL.txt) and registered
+# explicitly rather than named in a fallback list. A list like
+# "Helvetica Neue, Helvetica, Arial, DejaVu Sans" resolves to Helvetica Neue on
+# macOS and DejaVu Sans on a Linux CI runner -- different glyph metrics, so the
+# same code produces a different layout on each machine and the figure can
+# never be verified as reproducible.
+for _weight in ("Regular", "SemiBold", "Bold"):
+    fm.fontManager.addfont(os.path.join(FONTS, "Inter-%s.ttf" % _weight))
 
 # Palette: one accent hue for the finding, neutral grey for context.
 # Bar length already encodes magnitude, so colouring every bar by its own
@@ -28,11 +39,21 @@ INK_MUTED = "#8a8a84"
 
 plt.rcParams.update({
     "font.family": "sans-serif",
-    "font.sans-serif": ["Helvetica Neue", "Helvetica", "Arial", "DejaVu Sans"],
+    "font.sans-serif": ["Inter"],
     "figure.facecolor": SURFACE,
     "axes.facecolor": SURFACE,
     "savefig.facecolor": SURFACE,
+    # Element ids in the SVG are hashed from a salt that defaults to a random
+    # value per process. Fixing it keeps the ids stable between runs.
+    "svg.hashsalt": "pdgm-analytics",
 })
+
+# Matplotlib stamps a creation timestamp into the SVG (<dc:date>) and its own
+# version into the PNG (Software). Both change on every run regardless of the
+# data, which makes byte-comparison useless and -- if CI ever committed the
+# result -- would retrigger itself forever.
+SVG_METADATA = {"Date": None}
+PNG_METADATA = {"Software": None}
 
 GROUP_LABELS = {
     "MMTA_CARDIAC": "MMTA – Cardiac", "MMTA_ENDO": "MMTA – Endocrine",
@@ -157,7 +178,9 @@ def main():
         labels=list(difficulty["label"]),
         values=list(difficulty["pct_with_pitfall"]),
         note_values=list(difficulty["codes"]),
-        title="Coding difficulty varies 10× across clinical groups",
+        # Kept short deliberately: Inter is wider than the old Helvetica stack
+        # and a longer title overruns the right edge of the figure.
+        title="Coding difficulty varies 10× by group",
         highlight_index=0,
     )
 
@@ -170,8 +193,9 @@ def main():
              fontsize=8.5, color=INK_MUTED, va="bottom")
 
     png = os.path.join(FIGURES, "01_intake_coding_quality.png")
-    fig.savefig(png, dpi=160)
-    fig.savefig(os.path.join(FIGURES, "01_intake_coding_quality.svg"))
+    fig.savefig(png, dpi=160, metadata=PNG_METADATA)
+    fig.savefig(os.path.join(FIGURES, "01_intake_coding_quality.svg"),
+                metadata=SVG_METADATA)
     plt.close(fig)
     print("wrote", png)
 

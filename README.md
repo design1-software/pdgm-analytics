@@ -140,14 +140,48 @@ tests/               13 tests pinning the engine to its sources
 
 ```bash
 pip install -r requirements.txt
-python3 src/intake_quality.py          # coding-quality gates
 python3 src/build_cms_extracts.py      # CMS extracts for Tableau
+python3 src/intake_quality.py          # coding-quality gates
 python3 src/make_synthetic_cohort.py
+python3 src/make_figures.py            # reads the extracts above
 python3 -m pytest tests/ -q
 ```
 
 No database and no API keys. The CMS files are in the repo; everything is
 computed from them at run time.
+
+## Reproducibility
+
+Everything in `outputs/` is generated, and CI regenerates all of it on every
+push and fails if a single byte differs from what is committed. A green run
+means the published CSVs and figures are exactly what this code produces from
+this data — not a snapshot someone exported once and forgot.
+
+Three things are pinned to make that possible:
+
+- **Dependencies.** `requirements.txt` is fully pinned. matplotlib in
+  particular renders differently across releases, so an unpinned upgrade would
+  read as "the analysis changed."
+- **The font.** Inter is vendored in `assets/fonts/` (SIL OFL 1.1) and
+  registered explicitly. A fallback list like
+  `Helvetica Neue → Helvetica → Arial → DejaVu Sans` resolves differently on
+  macOS and on a Linux runner, which changes glyph metrics and therefore the
+  layout.
+- **Timestamps.** matplotlib stamps a creation date into the SVG and its own
+  version into the PNG. Both are suppressed; otherwise every run differs from
+  the last regardless of the data.
+
+The SVG is the verified artifact. It is vector, so its geometry is computed
+from the vendored font file and reproduces byte-for-byte on any platform. The
+PNG is excluded from byte-comparison because rasterization depends on the
+FreeType build, which differs between macOS and Linux — the same figure is
+253 KB rendered on macOS and 288 KB on a Linux runner. Since both files are
+written in the same run from the same figure object, a verified SVG means the
+PNG's content is correct too; only its pixels were produced by a different
+rasterizer.
+
+If you change an analysis, re-run the scripts above and commit the regenerated
+outputs along with the code.
 
 ## Refreshing for CY 2027
 
