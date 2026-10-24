@@ -1,4 +1,14 @@
-matplotlib
-openpyxl>=3.1
-pandas
-pytest>=8.0
+# Pinned 2026-10-24, verified together on Python 3.11.
+#
+# These versions are part of the output contract, not just an environment.
+# CI regenerates every CSV and figure and fails if the result differs from
+# what is committed, so a silent library upgrade would read as "the analysis
+# changed" -- matplotlib in particular renders differently across releases.
+#
+# To upgrade: bump, regenerate outputs, eyeball the figure, commit both.
+
+matplotlib==3.11.2
+pandas==3.1.0
+numpy==2.4.6
+openpyxl==3.1.5
+pytest==9.1.1
