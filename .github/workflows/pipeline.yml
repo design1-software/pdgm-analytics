@@ -44,20 +44,33 @@ jobs:
           python src/make_synthetic_cohort.py
           python src/make_figures.py
 
+      # The PNG is excluded from byte-comparison, and only the PNG.
+      #
+      # The SVG is vector: its glyph outlines and coordinates are computed from
+      # the vendored font file, so it reproduces byte-for-byte across macOS and
+      # Linux -- verified, this job's first run matched it exactly while the
+      # PNG differed (253,280 vs 288,208 bytes). The PNG is a rasterization of
+      # that same figure, and rasterization depends on the FreeType build,
+      # which differs between platforms.
+      #
+      # Verifying the SVG is therefore sufficient to prove the *content*
+      # reproduces. The PNG can only differ in how identical geometry was
+      # rendered to pixels, and both files are written in the same run from the
+      # same figure object, so they cannot drift apart in content.
       - name: Fail if any output drifted from what is committed
         run: |
-          if [ -n "$(git status --porcelain -- outputs/)" ]; then
+          if [ -n "$(git status --porcelain -- outputs/ ':!outputs/figures/*.png')" ]; then
             echo "::error::Regenerated outputs differ from the committed ones."
             echo "Run the four scripts in src/ locally and commit the result."
             echo
-            git status --short -- outputs/
+            git status --short -- outputs/ ':!outputs/figures/*.png'
             echo
             # Figures are binary; a textual diff is only useful for the CSVs.
-            git diff --stat -- outputs/
+            git diff --stat -- outputs/ ':!outputs/figures/*.png'
             git diff -- outputs/tableau/ outputs/synthetic/ | head -100
             exit 1
           fi
-          echo "All extracts and figures reproduce exactly."
+          echo "All extracts, the SVG figure, and the synthetic cohort reproduce exactly."
 
       # Uploaded regardless, so a drift failure can be inspected visually
       # rather than argued about from a byte count.

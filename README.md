@@ -171,6 +171,15 @@ Three things are pinned to make that possible:
   version into the PNG. Both are suppressed; otherwise every run differs from
   the last regardless of the data.
 
+The SVG is the verified artifact. It is vector, so its geometry is computed
+from the vendored font file and reproduces byte-for-byte on any platform. The
+PNG is excluded from byte-comparison because rasterization depends on the
+FreeType build, which differs between macOS and Linux — the same figure is
+253 KB rendered on macOS and 288 KB on a Linux runner. Since both files are
+written in the same run from the same figure object, a verified SVG means the
+PNG's content is correct too; only its pixels were produced by a different
+rasterizer.
+
 If you change an analysis, re-run the scripts above and commit the regenerated
 outputs along with the code.
 
